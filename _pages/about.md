@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to the ECS Lab website. I lead a group of student researchers with the vision of making electricity infrastructure sustainable for the planet and safe for all humans.
 
-I am an Associate Professor in the [School of Electrical Engineering & Computer Science](http://eecs.oregonstate.edu) at the [Oregon State University](https://oregonstate.edu) [College of Engineering.](http://engineering.oregonstate.edu). I am part of the Energy Systems research group, housed at the Wallace Energy Systems and Renewables Facility, and mainly work in the following power system areas:
+I am an Associate Professor in the [School of Electrical Engineering & Computer Science](http://eecs.oregonstate.edu) at the [Oregon State University](https://oregonstate.edu) [College of Engineering](http://engineering.oregonstate.edu). I am part of the Energy Systems research group, housed at the Wallace Energy Systems and Renewables Facility, and mainly work in the following power system areas:
 
  * Cascading outages in power grids
  * Power system protection, resiliency, and cybersecurity

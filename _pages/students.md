@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Students"
 permalink: /students/
 author_profile: true
@@ -9,7 +8,7 @@ author_profile: true
 
 ### Ph.D., Ben McCamish
 ###### (co-advise with Arash Termehchy)
-<img src="https://ecotillasanchez.github.io/files/ben.jpeg" alt="Marissa Kwon" width="150" height="200" style="float:left" style="padding-right:15px"> Ben McCamish is a graduate student in the School of Electrical Engineering and Computer Science's Ph.D. program at Oregon State University. He received his B.S. in Computer Science from Washington State University Vancouver in 2013. His current research projects involve the analysis of databases produced by PMUs. Mr. McCamish's research interests lie in the area of Large Database Management, Database Systems, Artificial Intelligence, and the Smart Grid.
+<img align="left" src="https://ecotillasanchez.github.io/files/ben.jpeg" alt="Ben McCamish" width="150" height="200" style="padding-right:15px"> Ben McCamish is a graduate student in the School of Electrical Engineering and Computer Science's Ph.D. program at Oregon State University. He received his B.S. in Computer Science from Washington State University Vancouver in 2013. His current research projects involve the analysis of databases produced by PMUs. Mr. McCamish's research interests lie in the area of Large Database Management, Database Systems, Artificial Intelligence, and the Smart Grid.
 
 ### Ph.D., Brandon Johnson
 <img src="https://ecotillasanchez.github.io/files/brandon.jpeg" alt="Marissa Kwon" width="150" height="200" style="float:left" style="padding-right:15px"> [Brandon Johnson](https://www.linkedin.com/in/johnbran/) is a fourth year Ph.D. candidate at OSU in the School of Electrical Engineering & Computer Science. He received his B.S. degree in Electrical Engineering at OSU in 2013 and continued on his education path with a focus on energy systems. Brandon's focus has been on renewable energy integration through reliability based methods and, more recently, a focus on distribution system disaster mitigation through advanced control schemes. Since his graduate studies began, he has participated in the Northwest National Marine Renewable Energy Center helping to forward the industry of wave energy. In 2016, Brandon was awarded a NSF Fellowship by participating in a program that focuses on the process of transdisciplinary research in Risk and Uncertainty Quantification in Marine Science. Brandon's research interests span a large group but mostly focus on renewable energy, smart grids, grid reliability and resiliency, grid modeling (transmission and distribution), and energy policy and economics.

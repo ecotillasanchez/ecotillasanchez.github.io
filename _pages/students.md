@@ -31,7 +31,7 @@ author_profile: true
 
 ### Undergraduate Researcher, Marissa Kwon
 
-[Marissa Kwon](https://www.linkedin.com/in/marissa-kwon-7a5731131) is a rising junior at Oregon State University expecting to graduate in 2020 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. Her interests lie in engineering applications to conservation, and hopes to increase the breadth of her undergrad experience by working with Power Systems. On her free time, Marissa enjoys cooking and outdoor activities. She spent this past summer hiking the ridges of West Oahu (HI) and improving the remote real-time agricultural sensors for the USGS to support native plant restoration in her home state. <img src="https://ecotillasanchez.github.io/files/marissa.jpeg" alt="Marissa Kwon" width="150" height="200" style="float:right">
+<img src="https://ecotillasanchez.github.io/files/marissa.jpeg" alt="Marissa Kwon" width="150" height="200" style="float:right"> [Marissa Kwon](https://www.linkedin.com/in/marissa-kwon-7a5731131) is a rising junior at Oregon State University expecting to graduate in 2020 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. Her interests lie in engineering applications to conservation, and hopes to increase the breadth of her undergrad experience by working with Power Systems. On her free time, Marissa enjoys cooking and outdoor activities. She spent this past summer hiking the ridges of West Oahu (HI) and improving the remote real-time agricultural sensors for the USGS to support native plant restoration in her home state.
 
 ## Graduated Students
 * Chen Huo, Ph.D.

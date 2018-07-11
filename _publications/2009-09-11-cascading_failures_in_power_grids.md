@@ -1,13 +1,12 @@
 ---
 title: "Cascading failures in power grids"
 collection: publications
-permalink: /publication/2009-09-11-cascading_failures_in_power_grids
-excerpt: 'Power grids are complex dynamical systems, and because of this complexity it is unlikely that we will completely eliminate blackouts. However, there are things that can be done to reduce the average size and cost of these blackouts. In this article we described two strategies that hold substantial promise for reducing the size and cost of blackouts. Both "reciprocal altruism" and "survivability" respect the necessarily decentralized nature of power grids. Both strategies can be implemented within the context of the existing physical infrastructure of the power grids, which is important because dramatic changes to the physical infrastructure are prohibitively expensive. However, additional engineering and innovation will be needed to bring strategies such as these to implementation and to create power grids with smaller, less costly blackouts.'
-date: 2009-09-11
-venue: 'IEEE Potentials'
-paperurl: 'https://doi.org/10.1109/MPOT.2009.933498'
-citation: 'Hines P, Balasubramaniam K, Cotilla-Sanchez E. &quot;Cascading failures in power grids.&quot; <i>IEEE Potentials</i>. 28(5):24-30 (2009)'
+permalink: /publication/2010-09-28-Do_topological_models_provide_good_information_about_electricity_infrastructure_vulnerability
+excerpt: 'In order to identify the extent to which results from topological graph models are useful for modeling vulnerability in electricity infrastructure, we measure the susceptibility of power networks to random failures and directed attacks using three measures of vulnerability: characteristic path lengths, connectivity loss, and blackout sizes. The first two are purely topological metrics. The blackout size calculation results from a model of cascading failure in power networks. Testing the response of 40 areas within the Eastern U.S. power grid and a standard IEEE test case to a variety of attack/failure vectors indicates that directed attacks result in larger failures using all three vulnerability measures, but the attack-vectors that appear to cause the most damage depend on the measure chosen. While the topological metrics and the power grid model show some similar trends, the vulnerability metrics for individual simulations show only a mild correlation. We conclude that evaluating vulnerability in power networks using purely topological metrics can be misleading.'
+date: 2010-09-28
+venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+paperurl: 'https://doi.org/10.1063/1.3489887'
+citation: 'Hines P, Cotilla-Sanchez E, Blumsack S. &quot;Do topological models provide good information about electricity infrastructure vulnerability?.&quot; <i>Chaos</i>. 20(3) (2010)'
 ---
-Power grids are complex dynamical systems, and because of this complexity it is unlikely that we will completely eliminate blackouts. However, there are things that can be done to reduce the average size and cost of these blackouts. In this article we described two strategies that hold substantial promise for reducing the size and cost of blackouts. Both "reciprocal altruism" and "survivability" respect the necessarily decentralized nature of power grids. Both strategies can be implemented within the context of the existing physical infrastructure of the power grids, which is important because dramatic changes to the physical infrastructure are prohibitively expensive. However, additional engineering and innovation will be needed to bring strategies such as these to implementation and to create power grids with smaller, less costly blackouts.
 
-[Download paper here](https://doi.org/10.1109/MPOT.2009.933498)
+[Download paper here](https://doi.org/10.1063/1.3489887)

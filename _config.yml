@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ECS Lab"
 title_separator          : "-"
 name                     : &name "Eduardo Cotilla-Sanchez"
-description              : &description "personal description"
+description              : &description "Electrical Engineering professor at Oregon State. Power system protection. Cascading failures and outages. Port side rower."
 url                      : https://ecotillasanchez.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ecotillasanchez.github.io"
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "TNQy3zQK5bbdlHZOqyasaKJeRhKEi9fM04vku1oU-Bo"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -71,9 +71,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-33213360-2"
 
 
 # Site Author
@@ -94,11 +94,11 @@ author:
   foursquare       :
   github           : "ecotillasanchez"
   google_plus      :
-  keybase          :
+  keybase          : "ecotillasanchez"
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : " https://orcid.org/0000-0002-3964-3260"
+  linkedin         : "eduardo-cotilla-sanchez-30640935"
+  orcid            : "https://orcid.org/0000-0002-3964-3260"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Journal Papers
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}

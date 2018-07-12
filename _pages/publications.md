@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Journal Papers
+> Journal Papers
 
 {% include base_path %}
 
@@ -13,4 +13,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-### Conference Papers
+> Conference Papers

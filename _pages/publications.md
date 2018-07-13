@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> Journal Papers
+> Journal papers
 
 {% include base_path %}
 
@@ -13,15 +13,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-> Conference Papers
+> Conference papers
 
-V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods,"" in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.
+V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods," in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.
 
-E. Hogan, E. Cotilla-Sanchez, M. Halappanavar, S. Wang, P. Mackey, P. Hines, Z. Huang. "On Clustering Techniques for the Analysis of Electric Power Grids," in Proc. of the 3rd International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Denver, 2013.
+E. Hogan, E. Cotilla-Sanchez, M. Halappanavar, S. Wang, P. Mackey, P. Hines, Z. Huang, "On Clustering Techniques for the Analysis of Electric Power Grids," in Proc. of the 3rd International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Denver, 2013.
 
-G. Ghanavati, P. Hines, T. Lakoba, E. Cotilla-Sanchez. Calculation of the Autocorrelation Function of the Stochastic Single Machine Infinite Bus System. Proc. of the North American Power Symposium, 2013.
+G. Ghanavati, P. Hines, T. Lakoba, E. Cotilla-Sanchez, "Calculation of the Autocorrelation Function of the Stochastic Single Machine Infinite Bus System," in Proc. of the North American Power Symposium, 2013.
 
-J. Song, E. Cotilla-Sanchez, T. Brekken. Load modeling methodologies for cascading outage simulation considering power system stability. Proc. of the IEEE Conference on Technologies for Sustainability, Portland, OR, 2013.
+J. Song, E. Cotilla-Sanchez, T. Brekken, "Load modeling methodologies for cascading outage simulation considering power system stability", in Proc. of the IEEE Conference on Technologies for Sustainability, Portland, OR, 2013.
 
 S. Safdar, B. Hamdaoui, E. Cotilla-Sanchez, M. Guizani. A Survey on Communication Infrastructure for Micro-grids. The 9th International Wireless Communications & Mobile Computing Conference (IWCMC), Cagliari, Italia, 2013
 

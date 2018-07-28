@@ -22,6 +22,7 @@ author_profile: true
 ### Ph.D., Travis Hagan
 
 ### M.S., Chris Dizon
+<img align="left" src="https://ecotillasanchez.github.io/files/chris.jpeg" alt="Chris Dizon" width="150" height="200" style="padding-right:15px"> Greetings, Chris Dizon here! After receiving my BS in Electrical Engineering at the University of Colorado Boulder the Summer of 2017, I moved to Oregon to begin my Master of Science Degree in Electrical Engineering and Computer Science at OSU that fall term. In the last two years of my undergraduate career, a group and I worked on developing/monitoring photovoltaic energy as the fuel source for primitive communication systems in Papua New Guinea. During this time, the growing importance and relevance of renewable energies grew on me, developing into the subject of my research interests and encouraging me to seek higher education at a graduate school. This eventually aligned me with the research work of the OSU Energy Systems group. Growing up in Maryland then being land-locked in Colorado, I returned to the coast where the prevalence of wave energy conversion became the base of the thesis subject I want to pursue. In my free time I attempt to make noise on a guitar, draw some "art", fall off my bike in the mountains, and make an effort to partake in all-any outdoor related activities with some friends :].
 
 ### M.S., Michael Boller
 ###### (co-advise with Ted Brekken)
@@ -33,7 +34,6 @@ author_profile: true
 ###### (co-advise with Yue Cao)
 
 ### Undergraduate Researcher, Marissa Kwon
-
 <img align="left" src="https://ecotillasanchez.github.io/files/marissa.jpeg" alt="Marissa Kwon" width="150" height="200" style="padding-right:15px"> [Marissa Kwon](https://www.linkedin.com/in/marissa-kwon-7a5731131) is a rising junior at Oregon State University expecting to graduate in 2020 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. Her interests lie in engineering applications to conservation, and hopes to increase the breadth of her undergrad experience by working with Power Systems. On her free time, Marissa enjoys cooking and outdoor activities. She spent this past summer hiking the ridges of West Oahu (HI) and improving the remote real-time agricultural sensors for the USGS to support native plant restoration in her home state.
 
 ## Graduated Students

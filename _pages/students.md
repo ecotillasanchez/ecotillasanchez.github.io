@@ -26,9 +26,11 @@ author_profile: true
 
 ### M.S., Michael Boller
 ###### (co-advise with Ted Brekken)
+<img align="left" src="https://ecotillasanchez.github.io/files/michael.jpeg" alt="Michael Boller" width="150" height="200" style="padding-right:15px"> Michael Boller is pursuing his Ph.D./M.S. in the OSU School of Electrical Engineering and Computer Science. He received his B.S. in Electrical Engineering from George Fox University. Michael’s research focuses on clustering of buses in the power grid with a focus on adequacy of reactive reserve resources.
 
 ### M.S., David Glennon
 ###### (co-advise with Ted Brekken)
+<img align="left" src="https://ecotillasanchez.github.io/files/david.jpeg" alt="David Glennon" width="150" height="200" style="padding-right:15px"> David Glennon is a 2nd year M.S. candidate in the Power and Energy Systems group at OSU’s school of Electrical Engineering and Computer Science. He graduated with a B.S. in Electrical Engineering from Northern Arizona University in 2013, and immediately began work in the semiconductor industry, working as a IC Product Engineer for a large implantable medical device company. Through work, he developed data management, visualization and statistical analysis skills alongside applying his academic training in electronics. After 4 years in industry, he returned to pursue a higher degree in power systems and renewable energy in order to shift career focus. His ongoing research focuses on the use of unsupervised machine learning techniques to cluster elements of the power grid into voltage control areas in a way that is useful for the planning and operations of the power system. His research interests include anything that allows for the combination of big data analysis and power engineering or renewable energy applications, as well as anything applying machine learning techniques.
 
 ### M.S., Kyle Gulan
 ###### (co-advise with Yue Cao)

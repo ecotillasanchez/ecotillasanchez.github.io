@@ -15,6 +15,8 @@ author_profile: true
 
 > Conference papers
 
+Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
+
 V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods," in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.
 
 E. Hogan, E. Cotilla-Sanchez, M. Halappanavar, S. Wang, P. Mackey, P. Hines, Z. Huang, "On Clustering Techniques for the Analysis of Electric Power Grids," in Proc. of the 3rd International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Denver, 2013.

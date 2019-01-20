@@ -15,8 +15,9 @@ author_profile: true
 
 > Conference papers
 
-Berrios J, Wallace S, Zhao X, Cotilla-Sanchez E, Bass B, "Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series
-Machine Learning Algorithm," in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018.
+Mate A, Cotilla-Sanchez E, "Rapid Method for Generation Prioritization during System Restoration with Renewable Resources," in Proc. of the IEEE Industrial and Commercial Power System Conference, Calgary, Alberta, Canada, 2019. 
+
+Berrios J, Wallace S, Zhao X, Cotilla-Sanchez E, Bass B, "Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series Machine Learning Algorithm," in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018.
 
 Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
 

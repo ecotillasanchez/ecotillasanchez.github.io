@@ -6,10 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-### Ph.D., Ben McCamish
-###### (co-advise with Arash Termehchy)
-<img align="left" src="https://ecotillasanchez.github.io/files/ben.jpeg" alt="Ben McCamish" width="150" height="200" style="padding-right:15px"> Ben McCamish is a graduate student in the School of Electrical Engineering and Computer Science's Ph.D. program at Oregon State University. He received his B.S. in Computer Science from Washington State University Vancouver in 2013. His current research projects involve the analysis of databases produced by PMUs. Mr. McCamish's research interests lie in the area of Large Database Management, Database Systems, Artificial Intelligence, and the Smart Grid.
-
 ### Ph.D., Adam Mate
 <img align="left" src="https://ecotillasanchez.github.io/files/adam.jpeg" alt="Adam Mate" width="150" height="200" style="padding-right:15px"> [Adam Mate](https://linkedin.com/in/adammate) is an Electrical Engineer - specialized in Power System Engineering - and a fourth year PhD Candidate working with Dr. Cotilla-Sanchez. He graduated with an MSc degree at Budapest University of Technology and Economics (BUTE) in Budapest, Hungary, and currently is pursuing his Electrical and Computer Engineering PhD degree at Oregon State University in Corvallis, Oregon. Adam's ongoing research focuses on power system restoration and resiliency (development of a restoration scheme for the PNW, and timeline reduction of restoration algorithms;  increasing the disaster preparedness of Oregon’s power grid; impact of Geomagnetic Disturbances on power systems), and renewable energy (application of renewable resources in power system restoration: integrating wind and wave farms -- analyzing their effect on the power grid’s reliability) related questions. His research expertise and interest further includes: modeling and operation of power systems, integration of renewable resources, energy and environmental legislation issues, and smart and micro grids.
 
@@ -33,11 +29,11 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 ### Undergraduate Researcher, Yenifer Ramirez
 <img align="left" src="https://ecotillasanchez.github.io/files/yenifer.jpeg" alt="Yenifer Ramirez" width="150" height="200" style="padding-right:15px"> Yenifer Ramirez is a senior that is expected to graduate in Fall 2019 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. She is a first-generation student who hopes to use engineering to better her community. She hopes to expand her knowledge in electrical engineering by working with power systems. On her free time she enjoys hanging with friends and exploring new places.
 
-
 ### Undergraduate Researcher, Marissa Kwon
 <img align="left" src="https://ecotillasanchez.github.io/files/marissa.jpeg" alt="Marissa Kwon" width="150" height="200" style="padding-right:15px"> [Marissa Kwon](https://www.linkedin.com/in/marissa-kwon-7a5731131) is a rising junior at Oregon State University expecting to graduate in 2020 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. Her interests lie in engineering applications to conservation, and hopes to increase the breadth of her undergrad experience by working with Power Systems. On her free time, Marissa enjoys cooking and outdoor activities. She spent this past summer hiking the ridges of West Oahu (HI) and improving the remote real-time agricultural sensors for the USGS to support native plant restoration in her home state.
 
 ## Graduated Students
+* Ben McCamish, Ph.D.
 * Brandon Johnson, Ph.D.
 * Chen Huo, Ph.D.
 * Jiajia Song, Ph.D.

@@ -21,6 +21,8 @@ Mate A, Cotilla-Sanchez E, "Rapid Method for Generation Prioritization during Sy
 
 Berrios J, Wallace S, Zhao X, Cotilla-Sanchez E, Bass B, "Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series Machine Learning Algorithm," in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018.
 
+Cicilio P, Cotilla-Sanchez E, "Dynamic Composite Load Model Priority Placement Based on Electrical Centrality," in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, 2018. 
+
 Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
 
 V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods," in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.

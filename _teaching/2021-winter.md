@@ -2,9 +2,9 @@
 title: "ECE 536: Power System Protection"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2019-winter
+permalink: /teaching/2021-winter
 venue: "Oregon State University, School of EECS"
-date: 2019-01-07
+date: 2021-01-07
 location: "Corvallis, OR"
 ---
 

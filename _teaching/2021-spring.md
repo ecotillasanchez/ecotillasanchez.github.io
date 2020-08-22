@@ -2,9 +2,9 @@
 title: "ECE 437/537: Smart Grid"
 collection: teaching
 type: "Undergraduate/Graduate course"
-permalink: /teaching/2019-spring
+permalink: /teaching/2021-spring
 venue: "Oregon State University, School of EECS"
-date: 2019-04-01
+date: 2021-04-01
 location: "Corvallis, OR"
 ---
 

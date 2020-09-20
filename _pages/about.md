@@ -20,4 +20,5 @@ I am an Associate Professor in the [School of Electrical Engineering & Computer 
 
 Currently serving as Vice-Chair of the [IEEE Working Group on Cascading Failures](http://sites.ieee.org/pes-cascading/).
 
-**Land acknowledgment**: Oregon State University in Corvallis, OR, is located within the traditional homelands of the Mary's River or Ampinefu Band of Kalapuya. Following the Willamette Valley Treaty of 1855 (Kalapuya etc. Treaty), Kalapuya people were forcibly removed to reservations in Western Oregon. Today, living descendants of these people are a part of the [Confederated Tribes of Grand Ronde Community of Oregon](https://www.grandronde.org) and the [Confederated Tribes of the Siletz Indians](https://ctsi.nsn.us). {: .notice}
+**Land acknowledgment**: Oregon State University in Corvallis, OR, is located within the traditional homelands of the Mary's River or Ampinefu Band of Kalapuya. Following the Willamette Valley Treaty of 1855 (Kalapuya etc. Treaty), Kalapuya people were forcibly removed to reservations in Western Oregon. Today, living descendants of these people are a part of the [Confederated Tribes of Grand Ronde Community of Oregon](https://www.grandronde.org) and the [Confederated Tribes of the Siletz Indians](https://ctsi.nsn.us).
+{: .notice}

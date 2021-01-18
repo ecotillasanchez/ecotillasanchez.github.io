@@ -15,13 +15,19 @@ author_profile: true
 
 > Conference papers
 
+De Silva S, Kim J, Cotilla-Sanchez E, "Data Driven Sparse Error Correction for PMU Measurements under GPS Spoofing Attacks," in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021.
+
+Senaratne D, Kim J, Cotilla-Sanchez E, "Spatio-Temporal Frequency Domain Analysis of PMU Data for Unsupervised Event Detection," in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021.
+
 Gulan K, Cotilla-Sanchez E, Cao Y, "Charging Analysis of Ground Support Vehicles in an Electrified Airport," in Proc. of the IEEE Transportation Electrification Conference & Expo (ITEC), Novi, Michigan, 2019.
 
 Mate A, Cotilla-Sanchez E, "Rapid Method for Generation Prioritization during System Restoration with Renewable Resources," in Proc. of the IEEE Industrial and Commercial Power System Conference, Calgary, Alberta, Canada, 2019.
 
+Liu X, Wallace S, Zhao X, Cotilla-Sanchez E, Bass R, "Episodic detection of spoofed data in synchrophasor measurement streams," in Proc. of the Tenth International Green and Sustainable Computing Conference (IGSC), 2019.
+
 Berrios J, Wallace S, Zhao X, Cotilla-Sanchez E, Bass B, "Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series Machine Learning Algorithm," in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018.
 
-Cicilio P, Cotilla-Sanchez E, "Dynamic Composite Load Model Priority Placement Based on Electrical Centrality," in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, 2018. 
+Cicilio P, Cotilla-Sanchez E, "Dynamic Composite Load Model Priority Placement Based on Electrical Centrality," in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, 2018.
 
 Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
 

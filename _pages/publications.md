@@ -19,6 +19,8 @@ De Silva S, Kim J, Cotilla-Sanchez E, "Data Driven Sparse Error Correction for P
 
 Senaratne D, Kim J, Cotilla-Sanchez E, "Spatio-Temporal Frequency Domain Analysis of PMU Data for Unsupervised Event Detection," in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021.
 
+Cicilio P, Swartz L, Vaagensmith B, Rieger C, Gentle J, Cotilla-Sanchez E, McJunkin T, "Electrical Grid Resilience Framework with Uncertainty," Power Systems Computation Conference (PSCC 2020), Porto, Portugal, 2020. 
+
 Gulan K, Cotilla-Sanchez E, Cao Y, "Charging Analysis of Ground Support Vehicles in an Electrified Airport," in Proc. of the IEEE Transportation Electrification Conference & Expo (ITEC), Novi, Michigan, 2019.
 
 Mate A, Cotilla-Sanchez E, "Rapid Method for Generation Prioritization during System Restoration with Renewable Resources," in Proc. of the IEEE Industrial and Commercial Power System Conference, Calgary, Alberta, Canada, 2019.

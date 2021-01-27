@@ -6,12 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-### Ph.D., Adam Mate
-<img align="left" src="https://ecotillasanchez.github.io/files/adam.jpeg" alt="Adam Mate" width="150" height="200" style="padding-right:15px"> [Adam Mate](https://linkedin.com/in/adammate) is an MS Electrical Engineer - specialized in Power Systems Engineering - and a 5th year PhD Candidate working with Dr. Cotilla-Sanchez. He received his MS at Budapest University of Technology and Economics (BUTE) in Hungary in 2015. Adam's ongoing research is focusing on power system resiliency and restoration related questions: increasing resiliency against high-impact, low-frequency threats; shortening restoration-algorithm timeframes; utilization of renewable resources in system restoration; impact of geomagnetic disturbances on power systems. His professional expertise and interests further include: modeling and operation of power systems; large-scale integration of renewable resources; microgrids and smart grids; energy policy and environmental legislation issues. In his free time, Adam enjoys spending every minute outdoors -- hiking, traveling, reading a good book, or exploring breweries.
-
-### Ph.D., Phylicia Cicilio
-<img align="left" src="https://ecotillasanchez.github.io/files/phylicia.jpeg" alt="Phylicia Cicilio" width="150" height="200" style="padding-right:15px"> Phylicia Cicilio is pursuing her Ph.D. in Electrical and Computer Engineering with the Energy Systems Research Group. She received her B.S. in Chemical Engineering at the University of New Hampshire, and her M.S. in Electrical and Computer Engineering at Oregon State University. Phylicia's research focuses on power systems dynamic load modeling, microgrid control, and renewable energy and energy storage integration. Phylicia is also a co-founder of the Graduate Student Committee of the OSU Chapter of Society of Women Engineers and heads the mentoring program for the group. In her spare time, Phylicia enjoys rock climbing, hiking, and playing the bari sax.
-
 ### Ph.D., Travis Hagan
 Travis Hagan graduated from Oregon State University with a Bachelor of Science in Electrical Engineering and Computer Science in 2015. Travis is currently entering his 3rd year of his Ph.D. program with Oregon State. His primary research interest is real-time adaptive power system protection. This includes, but is not limited to, real-time power system monitoring, adaptive protection schemes, and algorithms for determining protection settings. After graduating, Travis hopes to find a career with a National Lab or a large system operator to deploy real-time protection systems.
 
@@ -26,16 +20,12 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 ### Ph.D., Thabiso Mabote
 <img align="left" src="https://ecotillasanchez.github.io/files/thabiso.jpg" alt="Thabiso Mabote" width="300" height="200" style="padding-right:15px"> [Thabiso Mabote](https://www.linkedin.com/in/thabiso-mabote-321013100/) is an incoming student hoping to pursue a Ph.D. in electrical and computer engineering at OSU in Fall 2020. He is expecting to receive his B.A in physics and computer science from St. Olaf College in Spring 2020. With a desire to contribute to the sustainable and efficient production of electricity in low income countries, Thabiso’s research interests include power systems, electronics and control systems. In his spare time, he likes playing soccer, watching soccer, and hanging out with friends.
 
-### M.S., Austin Lassetter
+### M.S./Ph.D., Austin Lassetter
 <img align="left" src="https://ecotillasanchez.github.io/files/austin.jpeg" alt="Austin Lassetter" width="150" height="200" style="padding-right:15px"> Austin Lassetter is a senior, expecting to graduate in 2019 with a B.S. in Electrical and Computer Engineering and in 2020 with a M.S. in Electrical and Computer Engineering. His interests lie in machine learning, signal processing, and power systems. Specifically, he is interested in improving upon or introducing machine learning algorithms to Smart Grid applications, to system losses of the grid and better integrate energy storage control. In his spare time, Austin enjoys running, biking, board games, video games, hiking, and watching sports.
 
-### Undergraduate Researcher, Yenifer Ramirez
-<img align="left" src="https://ecotillasanchez.github.io/files/yenifer.jpeg" alt="Yenifer Ramirez" width="150" height="200" style="padding-right:15px"> Yenifer Ramirez is a senior that is expected to graduate in Fall 2019 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. She is a first-generation student who hopes to use engineering to better her community. She hopes to expand her knowledge in electrical engineering by working with power systems. On her free time she enjoys hanging with friends and exploring new places.
-
-### Undergraduate Researcher, Marissa Kwon
-<img align="left" src="https://ecotillasanchez.github.io/files/marissa.jpeg" alt="Marissa Kwon" width="150" height="200" style="padding-right:15px"> [Marissa Kwon](https://www.linkedin.com/in/marissa-kwon-7a5731131) is a rising junior at Oregon State University expecting to graduate in 2020 with a B.S. in Electrical and Computer Engineering and a minor in Computer Science. Her interests lie in engineering applications to conservation, and hopes to increase the breadth of her undergrad experience by working with Power Systems. On her free time, Marissa enjoys cooking and outdoor activities. She spent this past summer hiking the ridges of West Oahu (HI) and improving the remote real-time agricultural sensors for the USGS to support native plant restoration in her home state.
-
 ## Graduated Students
+* Phylicia Cicilio, Ph.D.
+* Adam Mate, Ph.D.
 * Ben McCamish, Ph.D.
 * Brandon Johnson, Ph.D.
 * Chen Huo, Ph.D.

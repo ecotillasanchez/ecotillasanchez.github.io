@@ -15,11 +15,15 @@ author_profile: true
 
 > Conference papers
 
+De Silva S, Kim S, Cotilla-Sanchez E, Hagan T, "Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction," in Proc. of the IEEE PES General Meeting, Washington, DC, USA, July 2021. 
+
+Mate A, Hagan T, Brekken T, Cotilla-Sanchez E, von Jouanne A, Zhang J, Huo C, Chalishazar V, Fox I, Bass B, "Impacts of Earthquakes on Electrical Grid Resiliency," in Proc. of the 57th IEEE Industrial and Commercial Power System Conference, April 2021.  
+
 De Silva S, Kim J, Cotilla-Sanchez E, "Data Driven Sparse Error Correction for PMU Measurements under GPS Spoofing Attacks," in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021.
 
 Senaratne D, Kim J, Cotilla-Sanchez E, "Spatio-Temporal Frequency Domain Analysis of PMU Data for Unsupervised Event Detection," in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021.
 
-Cicilio P, Swartz L, Vaagensmith B, Rieger C, Gentle J, Cotilla-Sanchez E, McJunkin T, "Electrical Grid Resilience Framework with Uncertainty," Power Systems Computation Conference (PSCC 2020), Porto, Portugal, 2020. 
+Cicilio P, Swartz L, Vaagensmith B, Rieger C, Gentle J, Cotilla-Sanchez E, McJunkin T, "Electrical Grid Resilience Framework with Uncertainty," Power Systems Computation Conference (PSCC 2020), Porto, Portugal, 2020.
 
 Gulan K, Cotilla-Sanchez E, Cao Y, "Charging Analysis of Ground Support Vehicles in an Electrified Airport," in Proc. of the IEEE Transportation Electrification Conference & Expo (ITEC), Novi, Michigan, 2019.
 

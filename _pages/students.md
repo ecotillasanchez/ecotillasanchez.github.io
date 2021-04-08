@@ -17,6 +17,12 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 ###### (co-advise with Ted Brekken)
 <img align="left" src="https://ecotillasanchez.github.io/files/michael.jpeg" alt="Michael Boller" width="200" height="200" style="padding-right:15px"> Michael Boller is pursuing his Ph.D. in the OSU School of Electrical Engineering and Computer Science. He received his B.S. in Electrical Engineering from George Fox University. Michael’s research focuses on clustering of buses in the power grid with a focus on adequacy of reactive reserve resources.
 
+
+
+
+
+
+
 ### Ph.D., Thabiso Mabote
 <img align="left" src="https://ecotillasanchez.github.io/files/thabiso.jpg" alt="Thabiso Mabote" width="300" height="200" style="padding-right:15px"> [Thabiso Mabote](https://www.linkedin.com/in/thabiso-mabote-321013100/) is an incoming student hoping to pursue a Ph.D. in electrical and computer engineering at OSU in Fall 2020. He is expecting to receive his B.A in physics and computer science from St. Olaf College in Spring 2020. With a desire to contribute to the sustainable and efficient production of electricity in low income countries, Thabiso’s research interests include power systems, electronics and control systems. In his spare time, he likes playing soccer, watching soccer, and hanging out with friends.
 

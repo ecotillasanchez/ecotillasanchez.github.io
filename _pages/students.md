@@ -16,15 +16,10 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 ### Ph.D., Michael Boller
 ###### (co-advise with Ted Brekken)
 <img align="left" src="https://ecotillasanchez.github.io/files/michael.jpeg" alt="Michael Boller" width="200" height="200" style="padding-right:15px"> Michael Boller is pursuing his Ph.D. in the OSU School of Electrical Engineering and Computer Science. He received his B.S. in Electrical Engineering from George Fox University. Michael’s research focuses on clustering of buses in the power grid with a focus on adequacy of reactive reserve resources.
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 
 ### Ph.D., Thabiso Mabote
@@ -34,7 +29,7 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 <img align="left" src="https://ecotillasanchez.github.io/files/Alex.png" alt="Alexander Barajas-Ritchie" width="200" height="200" style="padding-right:15px"> [Alexander Barajas-Ritchie]() is an incoming Computer Science Ph.D. student starting at Oregon State University Fall of 2021. He’ll be completing his B.S. in Computer Science for Sonoma State Spring of 2021. Alex’s research interests include Environmental Data Science, Sustainability, Energy Systems, and Remote sensing. Alex hopes to utilize his research to advocate for underrepresented communities. When Alex isn’t working on research or school, you can find him rock climbing, grooving to his favorite records, and spending time with friends.
 
 ### M.S./Ph.D., Austin Lassetter
-<img align="left" src="https://ecotillasanchez.github.io/files/austin.jpeg" alt="Austin Lassetter" width="200" height="200" style="padding-right:15px"> Austin Lassetter is a senior, expecting to graduate in 2019 with a B.S. in Electrical and Computer Engineering and in 2020 with a M.S. in Electrical and Computer Engineering. His interests lie in machine learning, signal processing, and power systems. Specifically, he is interested in improving upon or introducing machine learning algorithms to Smart Grid applications, to system losses of the grid and better integrate energy storage control. In his spare time, Austin enjoys running, biking, board games, video games, hiking, and watching sports.
+<img align="left" src="https://ecotillasanchez.github.io/files/austin.jpeg" alt="Austin Lassetter" width="200" height="200" style="padding-right:15px"> Austin Lassetter is an M.S./Ph.D in Electrical and Computer Engineering and Artificial Intelligence. His interests lie in machine learning, signal processing, and power systems. Specifically, he is interested in improving upon or introducing machine learning algorithms to Smart Grid applications, to system losses of the grid and better integrate energy storage control. In his spare time, Austin enjoys running, biking, board games, video games, hiking, and watching sports.
 
 ### M.S., Riley Weinmann
 <img align="left" src="https://ecotillasanchez.github.io/files/RW_Pic.jpeg" alt="Riley Weinmann" width="200" height="150" style="padding-right:15px"> [Riley Weinmann]() will begin pursuing an M.S. in Electrical Engineering at Oregon State in the Fall of 2021 after receiving a B.S. in Electrical Engineering from Montana State University. Riley hopes to contribute to a more reliable, sustainable and accessible power system with research into power system operation, control and protection. His interests include integration of distributed generation, and synchrophasor applications. When he is not studying, he enjoys exploring with his wife and dogs.

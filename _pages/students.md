@@ -21,6 +21,12 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 &nbsp;
 &nbsp;
 
+
+
+
+
+
+
 ### Ph.D., Thabiso Mabote
 <img align="left" src="https://ecotillasanchez.github.io/files/thabiso.jpg" alt="Thabiso Mabote" width="300" height="200" style="padding-right:15px"> [Thabiso Mabote](https://www.linkedin.com/in/thabiso-mabote-321013100/) is an incoming student hoping to pursue a Ph.D. in electrical and computer engineering at OSU in Fall 2020. He is expecting to receive his B.A in physics and computer science from St. Olaf College in Spring 2020. With a desire to contribute to the sustainable and efficient production of electricity in low income countries, Thabiso’s research interests include power systems, electronics and control systems. In his spare time, he likes playing soccer, watching soccer, and hanging out with friends.
 

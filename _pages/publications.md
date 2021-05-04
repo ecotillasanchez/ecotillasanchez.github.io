@@ -15,7 +15,7 @@ author_profile: true
 
 > Conference papers
 
-De Silva S, Kim S, Cotilla-Sanchez E, Hagan T, "Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction," in Proc. of the IEEE PES General Meeting, Washington, DC, USA, July 2021. 
+De Silva S, Kim S, Cotilla-Sanchez E, Hagan T, "Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction," in Proc. of the IEEE PES General Meeting, Washington, DC, USA, July 2021.
 
 Mate A, Hagan T, Brekken T, Cotilla-Sanchez E, von Jouanne A, Zhang J, Huo C, Chalishazar V, Fox I, Bass B, "Impacts of Earthquakes on Electrical Grid Resiliency," in Proc. of the 57th IEEE Industrial and Commercial Power System Conference, April 2021.  
 
@@ -38,6 +38,8 @@ Cicilio P, Cotilla-Sanchez E, "Dynamic Composite Load Model Priority Placement B
 Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
 
 V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods," in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.
+
+P. Patapanchala, C. Huo, R. Bobba, E. Cotilla-Sanchez, "Exploring security metrics for electric grid infrastructures leveraging attack graphs," in Proc. of the IEEE Conference on Technologies for Sustainability (SusTech), Phoenix, AZ, 2016.
 
 E. Hogan, E. Cotilla-Sanchez, M. Halappanavar, S. Wang, P. Mackey, P. Hines, Z. Huang, "On Clustering Techniques for the Analysis of Electric Power Grids," in Proc. of the 3rd International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Denver, 2013.
 

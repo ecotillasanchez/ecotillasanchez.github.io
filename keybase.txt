@@ -1,1 +1,56 @@
-Website proving.
+==================================================================
+https://keybase.io/eduardocs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://eduardocotillasanchez.com
+  * I am eduardocs (https://keybase.io/eduardocs) on keybase.
+  * I have a public key ASBIoaYKqsRlXf_F2NLpWE6-Rryek0LZ7TK2FBpGu1np8Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012048a1a60aaac4655dffc5d8d2e9584ebe46bc9e9342d9ed32b6141a46bb59e9f00a",
+      "host": "keybase.io",
+      "kid": "012048a1a60aaac4655dffc5d8d2e9584ebe46bc9e9342d9ed32b6141a46bb59e9f00a",
+      "uid": "34176580c4f61c7c0f12b59b0beed719",
+      "username": "eduardocs"
+    },
+    "merkle_root": {
+      "ctime": 1629232775,
+      "hash": "13e0b06c55648bc8c1f8b43843c828c19e711e6875696bfeec09c273ed26782147a0de9023a409f72c1f02294ee7fd5a39b2f63f75eb51c941e45102d070b632",
+      "hash_meta": "21ffb9ab4ae8ce1a1dde791c582f147f481dd9e75b7c2fde3b5d24cae949740c",
+      "seqno": 20584563
+    },
+    "service": {
+      "entropy": "5dg3JSvlX7/RqT+vhYn8Xbhe",
+      "hostname": "eduardocotillasanchez.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1629232868,
+  "expire_in": 504576000,
+  "prev": "22b6d48c998a0118a5131b7c51d3c20fc905de9424b5e78b523f4200048a7e5a",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSKGmCqrEZV3/xdjS6VhOvka8npNC2e0ythQaRrtZ6fAKp3BheWxvYWTESpcCBMQgIrbUjJmKARilExt8UdPCD8kF3pQkteeLUj9CAASKflrEILg88qFrv2R1ApU/soyu0aN2tJ3EWk2RE726awMtPXfDAgHCo3NpZ8RA5Q2CybCOZ6yNoPtU7jDCgmqG7v7lvLR4G0PTh8fkjcK9yCEgENA0MrNNsiozg+l3tHfp8tC/mrM5OSm14bcIB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINtouPdTGPEQZ5V2oDZs1JLTwFELvblaneXvLBF9WlUWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eduardocs
+
+==================================================================

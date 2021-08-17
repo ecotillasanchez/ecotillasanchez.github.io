@@ -15,6 +15,10 @@ author_profile: true
 
 > Conference papers
 
+Lassetter A, Cotilla-Sanchez E, Kim J, "Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data," in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021.
+
+Lassetter A, Cotilla-Sanchez E, "Exponential Modeling of Equipment Degradation in the Grid for More Reliable Contingency Analysis," in Proc. of the Smart Energy Systems and Technology Conference (SEST), Vaasa, Finland, 2021.
+
 De Silva S, Kim S, Cotilla-Sanchez E, Hagan T, "Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction," in Proc. of the IEEE PES General Meeting, Washington, DC, USA, July 2021.
 
 Mate A, Hagan T, Brekken T, Cotilla-Sanchez E, von Jouanne A, Zhang J, Huo C, Chalishazar V, Fox I, Bass B, "Impacts of Earthquakes on Electrical Grid Resiliency," in Proc. of the 57th IEEE Industrial and Commercial Power System Conference, April 2021.  

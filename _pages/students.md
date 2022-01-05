@@ -35,6 +35,9 @@ Travis Hagan graduated from Oregon State University with a Bachelor of Science i
 ###### (co-advise with Ted Brekken)
 <img align="left" src="https://ecotillasanchez.github.io/files/Harshali.jpeg" alt="Harshali Bhonslay" width="200" height="150" style="padding-right:15px"> [Harshali Bhonslay]() will begin pursuing her Masters in Electrical and Computer Engineering at Oregon State in Fall of 2021. She graduated with a B.E. in Electrical Engineering from Mumbai University in 2017. Since then she has worked for Renewable Energy Startups in India. This included working on commercial rooftop solar systems and projects related to Battery Energy Storage System. Harshali has keen interest in sustainable power systems for all through integration of renewables, microgrids and battery energy storage. She is a trained yoga instructor and chess enthusiast.
 
+### B.S., Lesly Rojas
+<img align="left" src="https://ecotillasanchez.github.io/files/Lesly.jpg" alt="Lesly Rojas" width="200" height="150" style="padding-right:15px"> [Lesly Rojas]() is a first-year electrical and computer engineering student. Her research interests are energy accessibility, power grids, and microgrids. In the future she wants to create adaptive technology to help those in underrepresented communities. In her spare time she enjoys learning new things (hence her never-ending list of hobbies) and enjoys playing music on her viola.
+
 
 ## Graduated Students
 * Phylicia Cicilio, Ph.D.

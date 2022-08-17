@@ -15,6 +15,8 @@ author_profile: true
 
 > Conference papers
 
+Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads,"" in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
+
 Lassetter A, Cotilla-Sanchez E, Kim J, "Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data," in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021.
 
 Lassetter A, Cotilla-Sanchez E, "Exponential Modeling of Equipment Degradation in the Grid for More Reliable Contingency Analysis," in Proc. of the Smart Energy Systems and Technology Conference (SEST), Vaasa, Finland, 2021.
@@ -37,9 +39,27 @@ Liu X, Wallace S, Zhao X, Cotilla-Sanchez E, Bass R, "Episodic detection of spoo
 
 Berrios J, Wallace S, Zhao X, Cotilla-Sanchez E, Bass B, "Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series Machine Learning Algorithm," in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018.
 
+S. De Silva, T. Hagan, J. Kim, E. Cotilla-Sanchez, “Sparse Error Correction for PMU Data under GPS Spoofing Attacks,” in Proc. of the IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018.
+
+V. Chalishazar, B. Johnson, T. Brekken, E. Cotilla-Sanchez, “Augmenting the Traditional Bus-Branch Model for Seismic Resilience Analysis,” in Proc. of the IEEE Energy Conversion Congress and Exposition (ECCE), Portland, OR, USA, 2018.
+
 Cicilio P, Cotilla-Sanchez E, "Dynamic Composite Load Model Priority Placement Based on Electrical Centrality," in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, 2018.
 
+K. Dieter et al., “Power System Spoof Detection with a Hybrid Hardware/Software Benchmarking Framework,” in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, USA, 2018.
+
+B. McCamish et al., “Event Detection Using Correlation within Arrays of Streaming PMU Data,” in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, USA, 2018.
+
+P. Henneaux, E. Ciapessoni, D. Cirio, E. Cotilla-Sanchez, R. Diao, I. Dobson, A. Gaikwad, S. Miller, M. Papic, A. Pitto, J. Qi, N. Samaan, G. Sansavini, S. Uppalapati, R. Yao, “Benchmarking Quasi-Steady State Cascading Outage Analysis Methodologies,” in Proc. of the IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), Boise, ID, USA, 2018.
+
+C. Huo, E. Cotilla-Sanchez, “A Power-Balanced Clustering Algorithm to Improve Electrical Infrastructure Resiliency,” in Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, 2018.
+
+C. Lassetter, E. Cotilla-Sanchez, J. Kim, “Learning Schemes for Power System Protection,” in Proc. of the 51st Hawaii International Conference on System Sciences (HICSS), Waikoloa Village, HI, USA, 2018.
+
 Tray K, Cicilio P, Brekken T, Cotilla-Sanchez E, "Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data," in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017.
+
+J. Jiang, X. Zhao, S. Wallace, E. Cotilla-Sanchez, R. Bass, “Mining PMU Data Streams to Improve Electric Power System Resilience,” in Proc. of the 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), Austin, TX, USA, 2017.
+
+P. Cicilio, E. Cotilla-Sanchez, M. Mueller-Stoffels, “Improved Reliability and Resiliency of Nome, Alaska's Microgrid Utilizing Composite Load Modeling and Energy Storage,” in Proc. of the IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 2018.
 
 V. Chalishazar, C. Huo, I. Fox, T. Hagan, E. Cotilla-Sanchez, A. von Jouanne, J. Zhang, T. Brekken, B. Bass, "Modeling Power System Buses Using Performance Based Earthquake Engineering Methods," in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017.
 

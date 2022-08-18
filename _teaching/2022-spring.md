@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-winter
 venue: "Oregon State University, School of EECS"
-date: 2021-01-07
+date: 2022-03-15
 location: "Corvallis, OR"
 ---
 

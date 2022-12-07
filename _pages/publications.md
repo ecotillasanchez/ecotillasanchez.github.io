@@ -15,7 +15,7 @@ author_profile: true
 
 > Conference papers
 
-Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads,"" in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
+Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads," in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
 
 Lassetter A, Cotilla-Sanchez E, Kim J, "Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data," in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021.
 

@@ -31,7 +31,7 @@ then worked in the solar renewable industry where I was involved in rooftop inst
 <img align="left" src="https://ecotillasanchez.github.io/files/Harshali.jpeg" alt="Harshali Bhonslay" width="200" height="150" style="padding-right:15px"> [Harshali Bhonslay]() will begin pursuing her Masters in Electrical and Computer Engineering at Oregon State in Fall of 2021. She graduated with a B.E. in Electrical Engineering from Mumbai University in 2017. Since then she has worked for Renewable Energy Startups in India. This included working on commercial rooftop solar systems and projects related to Battery Energy Storage System. Harshali has keen interest in sustainable power systems for all through integration of renewables, microgrids and battery energy storage. She is a trained yoga instructor and chess enthusiast.
 
 ### M.S., Zachery McLaughlin
-<img align="left" src="https://ecotillasanchez.github.io/files/zachery.jpeg" alt="Zachery McLaughlin" width="200" height="200" 
+<img align="left" src="https://ecotillasanchez.github.io/files/zachery.jpg" alt="Zachery McLaughlin" width="200" height="200" 
 style="padding-right:15px"> Zachery McLaughlin is a M.S. student in electrical and computer engineering.
 <br />
 <br />

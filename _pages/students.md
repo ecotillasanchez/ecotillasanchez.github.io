@@ -24,7 +24,7 @@ author_profile: true
 style="padding-right:15px"> I graduated with a bachelor's degree in Electrical engineering from Obafemi Awolowo University, Nigeria in 2018 and since then worked in the solar renewable industry where I was involved in rooftop installations and rural electrification design and installation of microgrids using Solar and BESS technologies. I am passionate about providing energy access to low income and rural environments through development of sustainable power systems. My research interests include power grid optimization, integration of renewable energy, microgrids design and application of data science tools in power systems. [LinkedIn](https://www.linkedin.com/in/abiodun-oseni/)
 
 ### Ph.D., Kalpani Wijesooriya
-<img align="left" src="https://ecotillasanchez.github.io/files/Kalpani.jpeg" alt="Kalpani Wijesooriya" width="200" height="200" 
+<img align="left" src="https://ecotillasanchez.github.io/files/kalpani.jpeg" alt="Kalpani Wijesooriya" width="200" height="200" 
 style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical Engineering from University of Moratuwa, Sri Lanka in 2017. Since then I worked as a Building Management Systems Engineer for two years and then as a junior lecturer in University of Moratuwa. My research focuses are power system protection and application of Machine learning to power systems.  During my free time I would love to spend time with my family ,travel and read books. 
 
 ### M.S., Riley Weinmann
@@ -40,7 +40,7 @@ style="padding-right:15px"> Zachery McLaughlin is a 1st year M.S. Electrical and
 <br />
 
 ### B.S., Aaron Vuong
-<img align="left" src="https://ecotillasanchez.github.io/files/aaron.jpg" alt="Aaron Vuong" width="300" height="200" style="padding-right:15px"> [Aaron Vuong]() Hi everyone, my name is Aaron Vuong, and I am a first-year Computer Science major at Oregon State University. I plan on having a concentration in Artificial Intelligence. I have a passion for environmental and social justice, and I would love to incorporate my passion into my major for future projects.
+<img align="left" src="https://ecotillasanchez.github.io/files/aaron.jpg" alt="Aaron Vuong" width="200" height="150" style="padding-right:15px"> [Aaron Vuong]() Hi everyone, my name is Aaron Vuong, and I am a first-year Computer Science major at Oregon State University. I plan on having a concentration in Artificial Intelligence. I have a passion for environmental and social justice, and I would love to incorporate my passion into my major for future projects.
 
 
 ## Graduated Students

@@ -17,7 +17,7 @@ author_profile: true
 <img align="left" src="https://ecotillasanchez.github.io/files/thabiso.jpg" alt="Thabiso Mabote" width="300" height="200" style="padding-right:15px"> [Thabiso Mabote](https://www.linkedin.com/in/thabiso-mabote-321013100/) is a Ph.D. student in electrical and computer engineering at OSU. He received his B.A in physics and computer science from St. Olaf College in Spring 2020. With a desire to contribute to the sustainable and efficient production of electricity in low income countries, Thabiso’s research interests include power systems, electronics and control systems. In his spare time, he likes playing soccer, watching soccer, and hanging out with friends.
 
 ### Ph.D., Alexander Barajas-Ritchie
-<img align="left" src="https://ecotillasanchez.github.io/files/Alex.jpeg" alt="Alexander Barajas-Ritchie" width="200" height="200" style="padding-right:15px"> [Alexander Barajas-Ritchie]() is a Computer Science Ph.D. student at Oregon State University with a passion for environmental data science, sustainability, power systems, and remote sensing. He earned his B.S. in Computer Science with distinction from Sonoma State in the spring of 2021 and has been pursuing his doctoral degree ever since. Alex aspires to use his research to advocate for and empower underrepresented communities. When he's not working on his research, you can find Alex rock climbing, listening to his favorite records, and spending time with friends.
+<img align="left" src="https://ecotillasanchez.github.io/files/Alex.jpeg" alt="Alexander Barajas-Ritchie" width="300" height="200" style="padding-right:15px"> [Alexander Barajas-Ritchie]() is a Computer Science Ph.D. student at Oregon State University with a passion for environmental data science, sustainability, power systems, and remote sensing. He earned his B.S. in Computer Science with distinction from Sonoma State in the spring of 2021 and has been pursuing his doctoral degree ever since. Alex aspires to use his research to advocate for and empower underrepresented communities. When he's not working on his research, you can find Alex rock climbing, listening to his favorite records, and spending time with friends.
 
 ### Ph.D., Abiodun Oseni
 <img align="left" src="https://ecotillasanchez.github.io/files/Abiodun_pic.jpg" alt="Abiodun Oseni" width="200" height="200" 
@@ -41,7 +41,10 @@ style="padding-right:15px"> Zachery McLaughlin is a 1st year M.S. Electrical and
 
 ### B.S., Aaron Vuong
 <img align="left" src="https://ecotillasanchez.github.io/files/aaron.jpg" alt="Aaron Vuong" width="200" height="150" style="padding-right:15px"> [Aaron Vuong]() Hi everyone, my name is Aaron Vuong, and I am a first-year Computer Science major at Oregon State University. I plan on having a concentration in Artificial Intelligence. I have a passion for environmental and social justice, and I would love to incorporate my passion into my major for future projects.
-
+<br />
+<br />
+<br />
+<br />
 
 ## Graduated Students
 * Travis Hagan, Ph.D.

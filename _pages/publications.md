@@ -15,6 +15,8 @@ author_profile: true
 
 > Conference papers
 
+Boller M, Carapellese F, Brekken T, Cotilla-Sanchez E, "Hybrid Simulation of a Wave Energy Converter Power Take Off for Flicker and Power Quality Studies," in Proc. of the 2023 IEEE Energy Conversion Congress and Exposition, Nashville, Tennessee, 2023.
+
 Mabote T, Tabarez JE, Barnes AK, Mate A, Bent RW, Cotilla-Sanchez E, "Approximate Methods for Modeling Inverter Short-Circuit Contributions within Optimal Operation Problems," in Proc. of the 23rd EEEIC International Conference on Environment and Electrical Engineering & 7th I&CPS Industrial and Commercial Power Systems Europe, Madrid, Spain, 2023.
 
 Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads," in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
@@ -103,8 +105,12 @@ E. Cotilla-Sanchez. A Complex Network Approach to Analyzing the Structure and Dy
 
 > Press
 
+AAAS EurekAlert! OSU research shows how hackers can target smart meters to destabilize electricity grid.
+
+KGW8. OSU researches ways to modernize hydroelectric power and energy storage.
+
 Science Magazine. What Keeps the Power On?
 
-US News and World Report. It's Hard to Bring Down the Electric Grid
+US News and World Report. It's Hard to Bring Down the Electric Grid.
 
-Science Daily. Why It's Hard to Crash the Electric Grid
+Science Daily. Why It's Hard to Crash the Electric Grid.

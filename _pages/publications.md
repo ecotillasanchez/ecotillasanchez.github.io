@@ -19,6 +19,8 @@ Boller M, Carapellese F, Brekken T, Cotilla-Sanchez E, "Hybrid Simulation of a W
 
 Mabote T, Tabarez JE, Barnes AK, Mate A, Bent RW, Cotilla-Sanchez E, "Approximate Methods for Modeling Inverter Short-Circuit Contributions within Optimal Operation Problems," in Proc. of the 23rd EEEIC International Conference on Environment and Electrical Engineering & 7th I&CPS Industrial and Commercial Power Systems Europe, Madrid, Spain, 2023.
 
+Weinmann R, Brekken T, Cotilla-Sanchez E, "Impacts of Remedial Action Schemes on Power System Resilience after Large-Scale Earthquakes," in Proc. of the 2023 International Conference on Smart Energy Systems and Technologies (SEST), Mugla, Turkey, 2023. 
+
 Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads," in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
 
 Lassetter A, Cotilla-Sanchez E, Kim J, "Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data," in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021.
@@ -105,7 +107,11 @@ E. Cotilla-Sanchez. A Complex Network Approach to Analyzing the Structure and Dy
 
 > Press
 
+Hackster.io. A Load-Oscillating Attack from Compromised Smart Meters Could Cause a Blackout, Say Researchers.
+
 AAAS EurekAlert! OSU research shows how hackers can target smart meters to destabilize electricity grid.
+
+American Public Power Association. Study Highlights Hacker Vulnerabilities Created by Smart Meters.
 
 KGW8. OSU researches ways to modernize hydroelectric power and energy storage.
 

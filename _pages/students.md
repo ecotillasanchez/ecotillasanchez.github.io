@@ -20,11 +20,11 @@ style="padding-right:15px"> I graduated with a bachelor's degree in Electrical e
 <img align="left" src="https://ecotillasanchez.github.io/files/kalpani.jpeg" alt="Kalpani Wijesooriya" width="200" height="200" 
 style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical Engineering from University of Moratuwa, Sri Lanka in 2017. Since then I worked as a Building Management Systems Engineer for two years and then as a junior lecturer in University of Moratuwa. My research focuses are power system protection and application of Machine learning to power systems.  During my free time I would love to spend time with my family ,travel and read books. 
 
-### M.S., Harshali Bhonslay
-<img align="left" src="https://ecotillasanchez.github.io/files/Harshali.jpeg" alt="Harshali Bhonslay" width="200" height="150" style="padding-right:15px"> [Harshali Bhonslay]() will begin pursuing her Masters in Electrical and Computer Engineering at Oregon State in Fall of 2021. She graduated with a B.E. in Electrical Engineering from Mumbai University in 2017. Since then she has worked for Renewable Energy Startups in India. This included working on commercial rooftop solar systems and projects related to Battery Energy Storage System. Harshali has keen interest in sustainable power systems for all through integration of renewables, microgrids and battery energy storage. She is a trained yoga instructor and chess enthusiast.
+### B.S./M.S., Cameron Hicks
+<img align="left" src="https://ecotillasanchez.github.io/files/Cameron.jpeg" alt="Cameron Hicks" width="200" height="150" style="padding-right:15px"> [Cameron Hicks]() is an undergraduate student in the Accelerated Master's Platform pursuing ECE at Oregon State University. He wants to focus his research on the components of grid electrification and de-centralized microgrid applications. His hobbies include sport Brazilian Jiu-Jitsu and youth athletics coaching in his community.
 
-### B.S., Aaron Vuong
-<img align="left" src="https://ecotillasanchez.github.io/files/aaron.jpg" alt="Aaron Vuong" width="200" height="150" style="padding-right:15px"> [Aaron Vuong]() Hi everyone, my name is Aaron Vuong, and I am a first-year Computer Science major at Oregon State University. I plan on having a concentration in Artificial Intelligence. I have a passion for environmental and social justice, and I would love to incorporate my passion into my major for future projects.
+### B.S., Reuben De Souza
+<img align="left" src="https://ecotillasanchez.github.io/files/Reuben.jpeg" alt="Reuben De Souza" width="200" height="150" style="padding-right:15px"> [Reuben De Souza]() 
 <br />
 <br />
 <br />
@@ -40,6 +40,7 @@ style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical
 * Brandon Johnson, Ph.D.
 * Chen Huo, Ph.D.
 * Jiajia Song, Ph.D.
+* Harshali Bhonslay, M.S.
 * Zachery McLaughlin, M.S.
 * Riley Weinmann, M.S.
 * Austin Lassetter, M.S.

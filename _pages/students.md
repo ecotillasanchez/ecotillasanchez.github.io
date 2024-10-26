@@ -18,15 +18,17 @@ style="padding-right:15px"> I graduated with a bachelor's degree in Electrical e
 
 ### Ph.D., Kalpani Wijesooriya
 <img align="left" src="https://ecotillasanchez.github.io/files/kalpani.jpeg" alt="Kalpani Wijesooriya" width="200" height="200" 
-style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical Engineering from University of Moratuwa, Sri Lanka in 2017. Since then I worked as a Building Management Systems Engineer for two years and then as a junior lecturer in University of Moratuwa. My research focuses are power system protection and application of Machine learning to power systems.  During my free time I would love to spend time with my family ,travel and read books. 
+style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical Engineering from University of Moratuwa, Sri Lanka in 2017. Since then I worked as a Building Management Systems Engineer for two years and then as a junior lecturer in University of Moratuwa. My research focuses are power system protection and application of Machine learning to power systems. During my free time I would love to spend time with my family, travel, and read books. 
+<br />
+<br />
 
 ### B.S./M.S., Cameron Hicks
 <img align="left" src="https://ecotillasanchez.github.io/files/Cameron.jpeg" alt="Cameron Hicks" width="200" height="150" style="padding-right:15px"> [Cameron Hicks]() is an undergraduate student in the Accelerated Master's Platform pursuing ECE at Oregon State University. He wants to focus his research on the components of grid electrification and de-centralized microgrid applications. His hobbies include sport Brazilian Jiu-Jitsu and youth athletics coaching in his community.
+<br />
+<br />
 
 ### B.S., Reuben De Souza
-<img align="left" src="https://ecotillasanchez.github.io/files/Reuben.jpeg" alt="Reuben De Souza" width="200" height="150" style="padding-right:15px"> [Reuben De Souza]() 
-<br />
-<br />
+<img align="left" src="https://ecotillasanchez.github.io/files/Reuben.jpg" alt="Reuben De Souza" width="200" height="150" style="padding-right:15px"> [Reuben De Souza]() is an undergraduate student in Electrical and Computer Engineering at Oregon State University. His research focuses on exploring advanced functionalities and engineering applications for next-generation smart electric meters. This work aims to enhance grid edge capabilities and improve utility infrastructure. Outside of academics, he enjoys playing soccer, following Formula 1, cooking, and snowboarding. [LinkedIn](https://www.linkedin.com/in/reuben-de-souza-90517823a/)
 <br />
 <br />
 

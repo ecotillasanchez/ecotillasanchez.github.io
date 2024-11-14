@@ -15,13 +15,23 @@ author_profile: true
 
 > Conference papers
 
+Podder S, Jackson D, Barajas-Ritchie A, Cotilla-Sanchez E, Cao Y, "Dynamic Modeling and Real-Time Simulation of Wave-to-Grid System," in Proc. of the 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, 2024. 
+
+Hicks C, Whitener K, Cotilla-Sanchez E, "Voltage Regulation of Microgrid Inverters in Grid-Following and Grid-Forming Mode," in Proc. of the 2024 International Conference on Smart Energy Systems and Technologies (SEST), Torino, Italy, 2024
+
+Mabote T, Tabarez J, Barnes A, Mate A, Bent R, Cotilla-Sanchez E, "Developing Optimization-Based Inverter Models for Short Circuit Studies," in Proc. of the 2023 IEEE International Conference on Environment and Electrical Engineering and 2023 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe), Madrid, Spain, 2023. 
+
 Boller M, Carapellese F, Brekken T, Cotilla-Sanchez E, "Hybrid Simulation of a Wave Energy Converter Power Take Off for Flicker and Power Quality Studies," in Proc. of the 2023 IEEE Energy Conversion Congress and Exposition, Nashville, Tennessee, 2023.
 
 Mabote T, Tabarez JE, Barnes AK, Mate A, Bent RW, Cotilla-Sanchez E, "Approximate Methods for Modeling Inverter Short-Circuit Contributions within Optimal Operation Problems," in Proc. of the 23rd EEEIC International Conference on Environment and Electrical Engineering & 7th I&CPS Industrial and Commercial Power Systems Europe, Madrid, Spain, 2023.
 
 Weinmann R, Brekken T, Cotilla-Sanchez E, "Impacts of Remedial Action Schemes on Power System Resilience after Large-Scale Earthquakes," in Proc. of the 2023 International Conference on Smart Energy Systems and Technologies (SEST), Mugla, Turkey, 2023. 
 
+Barajas-Ritchie A, Jackson D, Cotilla-Sanchez E, Cao Y, "Open-Source Steady-State Models for Integration of Wave Energy Converter into Microgrids," in Proc. of the International Conference on Future Energy Solutions, Vaasa, Finland, 2023
+
 Mabote T, Badesa L, Cotilla-Sanchez E, "Enhancing Resilience During Islanding Events Through Price-Responsive Loads," in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022.
+
+Mate A, Barnes A, Morley S, Friz-Trillo J, Cotilla-Sanchez E, Blake S, "Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl," in Proc. of the 53rd North American Power Symposium (NAPS), 2021.
 
 Lassetter A, Cotilla-Sanchez E, Kim J, "Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data," in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021.
 

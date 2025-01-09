@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> Journal papers
+> Journal papers, book chapters
 
 {% include base_path %}
 

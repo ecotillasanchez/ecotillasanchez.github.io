@@ -15,6 +15,16 @@ author_profile: true
 
 > Conference papers
 
+de Souza R, Cotilla-Sanchez E "Practical Implementation of GPU-based Computing at the Grid Edge for Resilience Scenarios," in Proc. of the IEEE International Conference on Energy Technologies for Future Grids (ETFG), 2025.
+
+Podder S, Cotilla-Sanchez E, Cao Y, "Adaptive Energy Management Strategy for Power Fluctuation Mitigation in a Wave-to-Grid System," in Proc. of the 57th North American Power Symposium (NAPS), Hartford, CT, 2025
+
+Barajas-Ritchie A, Cotilla-Sanchez E, Bhattacharya S, Baldwin D, "A Reconfigurable Co-Simulation Framework for Dynamical Analysis of Grid-Connected Wave Energy Converters," in Proc. of the 57th North American Power Symposium (NAPS), Hartford, CT, 2025.
+
+Gibson A, Li P, Mabote T, Oseni A, Cotilla-Sanchez E, Cao Y, Brekken T, "Hybrid Hydropower and Energy Storage Experimental System," in Proc. of the 2025 IEEE Energy Conversion Congress & Exposition (ECCE), Philadelphia, PA, 2025
+
+Oseni A, Cotilla-Sanchez E, "Lightweight Evaluation of Controlled Islanding Stability," in Proc. of the IEEE PES General Meeting, Austin, TX, USA, July 2025.
+
 Podder S, Jackson D, Barajas-Ritchie A, Cotilla-Sanchez E, Cao Y, "Dynamic Modeling and Real-Time Simulation of Wave-to-Grid System," in Proc. of the 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, 2024. 
 
 Hicks C, Whitener K, Cotilla-Sanchez E, "Voltage Regulation of Microgrid Inverters in Grid-Following and Grid-Forming Mode," in Proc. of the 2024 International Conference on Smart Energy Systems and Technologies (SEST), Torino, Italy, 2024

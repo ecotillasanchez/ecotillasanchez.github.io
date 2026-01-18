@@ -15,7 +15,9 @@ author_profile: true
 
 > Conference papers
 
-de Souza R, Cotilla-Sanchez E "Practical Implementation of GPU-based Computing at the Grid Edge for Resilience Scenarios," in Proc. of the IEEE International Conference on Energy Technologies for Future Grids (ETFG), 2025.
+Podder S, Cotilla-Sanchez E, Cao Y, "A LVRT Control with Current Limiting and Power Oscillation Mitigation for Wave-to-Grid Systems," in Proc. of the IEEE Green Technologies Conference (GreenTech), Boulder, CO, 2026.
+
+de Souza R, Cotilla-Sanchez E, "Practical Implementation of GPU-based Computing at the Grid Edge for Resilience Scenarios," in Proc. of the IEEE International Conference on Energy Technologies for Future Grids (ETFG), 2025.
 
 Podder S, Cotilla-Sanchez E, Cao Y, "Adaptive Energy Management Strategy for Power Fluctuation Mitigation in a Wave-to-Grid System," in Proc. of the 57th North American Power Symposium (NAPS), Hartford, CT, 2025
 

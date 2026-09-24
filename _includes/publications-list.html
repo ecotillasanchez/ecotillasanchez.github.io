@@ -1,0 +1,82 @@
+{% comment %}
+Publications list rendered from _data/publications.yml.
+Each entry: type, title, authors[], advisees[], venue, year, and optionally doi, url, status.
+Edit the data file, not this template, to add or correct a paper.
+{% endcomment %}
+{% assign pubs = site.data.publications %}
+{% assign types = "journal|Journal articles,conference|Conference papers,chapter|Book chapters,other|Other peer-reviewed,preprint|Preprints,software|Software & data,review|Under review" | split: "," %}
+
+<div class="pub-tools">
+  <div class="pub-filter" role="group" aria-label="Filter by type">
+    <button type="button" data-type="all" aria-pressed="true">All <span class="n">{{ pubs | size }}</span></button>
+    {% for t in types %}
+      {% assign kv = t | split: "|" %}
+      {% assign n = pubs | where: "type", kv[0] | size %}
+      {% if n > 0 %}<button type="button" data-type="{{ kv[0] }}" aria-pressed="false">{{ kv[1] }} <span class="n">{{ n }}</span></button>{% endif %}
+    {% endfor %}
+  </div>
+  <label class="pub-search"><span class="visually-hidden">Search publications</span>
+    <input id="pub-q" type="search" placeholder="Search titles, co-authors, venues" autocomplete="off">
+  </label>
+  <p class="pub-legend"><span class="adv">Underlined</span>: research advisees.</p>
+</div>
+
+{% assign review = pubs | where: "type", "review" %}
+{% if review.size > 0 %}
+<section class="pub-year" aria-label="Under review">
+  <h2 class="pub-y">Under review</h2>
+  <ol class="pub-list">
+    {% for p in review %}{% include publication-item.html p=p %}{% endfor %}
+  </ol>
+</section>
+{% endif %}
+
+{% assign dated = pubs | where_exp: "p", "p.year" %}
+{% assign groups = dated | group_by: "year" | sort: "name" | reverse %}
+{% for g in groups %}
+<section class="pub-year" aria-label="{{ g.name }}">
+  <h2 class="pub-y">{{ g.name }}</h2>
+  <ol class="pub-list">
+    {% for p in g.items %}{% unless p.type == "review" %}{% include publication-item.html p=p %}{% endunless %}{% endfor %}
+  </ol>
+</section>
+{% endfor %}
+
+<p class="pub-empty" hidden>No publications match that search.</p>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.pub-filter button');
+  var q = document.getElementById('pub-q');
+  var empty = document.querySelector('.pub-empty');
+  var type = new URLSearchParams(location.search).get('type') || 'all';
+
+  function apply() {
+    var term = q.value.trim().toLowerCase();
+    var shown = 0;
+    document.querySelectorAll('.pub').forEach(function (el) {
+      var ok = (type === 'all' || el.dataset.type === type) &&
+               (!term || el.textContent.toLowerCase().indexOf(term) !== -1);
+      el.hidden = !ok;
+      if (ok) shown++;
+    });
+    document.querySelectorAll('.pub-year').forEach(function (g) {
+      g.hidden = !g.querySelector('.pub:not([hidden])');
+    });
+    buttons.forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.type === type); });
+    empty.hidden = shown > 0;
+  }
+
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () {
+      type = b.dataset.type;
+      var url = new URL(location);
+      if (type === 'all') url.searchParams.delete('type'); else url.searchParams.set('type', type);
+      history.replaceState(null, '', url);
+      apply();
+    });
+  });
+  q.addEventListener('input', apply);
+  apply();
+})();
+</script>

@@ -1,0 +1,18 @@
+{% assign p = include.p %}
+{% case p.type %}
+  {% when "journal" %}{% assign label = "Journal" %}
+  {% when "conference" %}{% assign label = "Conference" %}
+  {% when "chapter" %}{% assign label = "Book chapter" %}
+  {% when "other" %}{% assign label = "Peer-reviewed" %}
+  {% when "preprint" %}{% assign label = "Preprint" %}
+  {% when "software" %}{% assign label = p.kind | default: "Software & data" %}
+  {% when "review" %}{% assign label = "Under review" %}
+{% endcase %}
+{% assign link = p.doi | default: p.url %}
+<li class="pub" data-type="{{ p.type }}">
+  <p class="pub-type">{{ label }}{% if p.status and p.type != "review" %} · {{ p.status }}{% endif %}</p>
+  <p class="pub-title">{% if link %}<a href="{{ link }}">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}</p>
+  <p class="pub-authors">{% for a in p.authors %}{% if a contains "Cotilla-Sanchez" %}<strong>{{ a }}</strong>{% elsif p.advisees contains a %}<span class="adv">{{ a }}</span>{% else %}{{ a }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+  {% if p.venue != "" %}<p class="pub-venue">{{ p.venue }}</p>{% endif %}
+  {% if p.doi %}<p class="pub-links"><a href="{{ p.doi }}">DOI {{ p.doi | remove: "https://doi.org/" }}</a></p>{% endif %}
+</li>

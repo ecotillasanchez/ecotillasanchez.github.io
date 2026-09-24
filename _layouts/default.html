@@ -1,33 +1,51 @@
----
-layout: compress
----
-
-{% include base_path %}
-
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
-
-    </script>
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.url != "/" %}{{ page.title | strip_html }} · {% endif %}{{ site.author.name }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.author.bio | strip_html | strip_newlines | truncate: 160 }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/ecs.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-head">
+    <div class="wrap head-row">
+      <div>
+        <a class="site-name" href="{{ '/' | relative_url }}">{{ site.author.name }}</a>
+        <p class="site-role">Associate Dean for Academic Affairs, College of Engineering · Professor, School of Electrical Engineering and Computer Science · Oregon State University</p>
+      </div>
     </div>
+    {% comment %} Main navigation drawn as a one-line diagram: the list is the bus, each link a feeder with a breaker that closes on the current page. {% endcomment %}
+    <nav class="bus" aria-label="Main">
+      <ul class="wrap">
+        <li><a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>About</a></li>
+        {% for link in site.data.navigation.main %}
+          {% assign active = false %}
+          {% if page.url contains link.url and link.url != "/" %}{% assign active = true %}{% endif %}
+          <li><a href="{{ link.url | relative_url }}"{% if active %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
 
-    {% include scripts.html %}
+  <main class="wrap page-body">
+    {{ content }}
+  </main>
 
-  </body>
+  <footer class="site-foot">
+    <div class="wrap foot-row">
+      <p>© {{ site.time | date: "%Y" }} {{ site.author.name }} · Oregon State University, Corvallis, Oregon</p>
+      <ul class="foot-links">
+        {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}">Google Scholar</a></li>{% endif %}
+        {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}">ORCID</a></li>{% endif %}
+        {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}">GitHub</a></li>{% endif %}
+        {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a></li>{% endif %}
+      </ul>
+    </div>
+  </footer>
+</body>
 </html>

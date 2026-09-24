@@ -1,0 +1,1487 @@
+- type: chapter
+  title: 'Modeling Cascading Failures in Power Systems: Quasi-Steady-State Models and Dynamic Models'
+  authors:
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: 'Kai Sun (ed.), Cascading Failures in Power Grids: Risk Assessment, Modeling, and Simulation, Springer Nature, 2023'
+  year: 2023
+  doi: https://doi.org/10.1007/978-3-031-48000-3_5
+- type: chapter
+  title: A Sensitivity Based Approach for Efficient PMU Deployment on Smart Grid
+  authors:
+  - R. Barella
+  - D. Nguyen
+  - R. Winter
+  - K. Lu
+  - S. Wallace
+  - X. Zhao
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: 'M. Helfert et al. (Eds.): Smartgreens 2015 and Vehists 2015, CCIS 579, pp. 117, 2015'
+  year: 2015
+  doi: https://doi.org/10.1007/978-3-319-27753-0_11
+- type: journal
+  title: Enhanced Intentional Controlled Islanding in Power Systems Using Constrained Spectral Clustering with Data Amelioration and Dynamic Validation
+  authors:
+  - F. Rivas-Dávalos
+  - P. García-Peña
+  - E. Cotilla-Sanchez
+  - S. Maximov
+  - M. Madrigal-Martínez
+  advisees: []
+  venue: Symmetry, 18(7):1196 (2026)
+  year: 2026
+  doi: https://doi.org/10.3390/sym18071196
+- type: journal
+  title: 'WEC-Grid: A Software Tool for Integrating Wave Energy Converter Models into Power System Simulations'
+  authors:
+  - A. Barajas-Ritchie
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Barajas-Ritchie
+  venue: Elsevier SoftwareX, 32:102384 (2025)
+  year: 2025
+  doi: https://doi.org/10.1016/j.softx.2025.102384
+- type: journal
+  title: 'Load Oscillating Attacks of Smart Grids: Vulnerability Analysis'
+  authors:
+  - F. Alanazi
+  - J. Kim
+  - E. Cotilla-Sanchez
+  advisees:
+  - F. Alanazi
+  venue: IEEE Access, 11:36538-36549 (2023)
+  year: 2023
+  doi: https://doi.org/10.1109/access.2023.3266249
+- type: journal
+  title: Implementing Power System Protection Algorithms in a Digital Hardware-in-the-Loop Substation
+  authors:
+  - T. Hagan
+  - D. Senaratne
+  - R. Meier
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - T. Hagan
+  - R. Meier
+  venue: IEEE Open Access Journal of Power and Energy, 10:270-282 (2022)
+  year: 2022
+  doi: https://doi.org/10.1109/oajpe.2022.3229413
+- type: journal
+  title: Toward Models of Impact and Recovery of the US Western Grid from Earthquake Events
+  authors:
+  - R. Weinmann
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  advisees:
+  - R. Weinmann
+  venue: Energies, 15(24):9275 (2022)
+  year: 2022
+  doi: https://doi.org/10.3390/en15249275
+- type: journal
+  title: 'On PMU Data Integrity under GPS Spoofing Attacks: A Sparse Error Correction Framework'
+  authors:
+  - S. De Silva
+  - J. Kim
+  - E. Cotilla-Sanchez
+  - T. Hagan
+  advisees:
+  - T. Hagan
+  venue: IEEE Transactions on Power Systems, 36(6):5317-5332 (2021)
+  year: 2021
+  doi: https://doi.org/10.1109/tpwrs.2021.3069219
+- type: journal
+  title: Resilience in an Evolving Electrical Grid
+  authors:
+  - P. Cicilio
+  - D. Glennon
+  - A. Mate
+  - A. Barnes
+  - V. Chalishazar
+  - E. Cotilla-Sanchez
+  - B. Vaagensmith
+  - J. Gentle
+  - C. Rieger
+  - R. Wies
+  - M.H. Kapourchali
+  advisees:
+  - P. Cicilio
+  - D. Glennon
+  - A. Mate
+  venue: Energies, 14(3):694 (2021)
+  year: 2021
+  doi: https://doi.org/10.3390/en14030694
+- type: journal
+  title: A Coupled Karhunen-Loève and Anisotropic Sparse Grid Interpolation Method for the Probabilistic Load Flow Problem
+  authors:
+  - B. Johnson
+  - N. Gibson
+  - E. Cotilla-Sanchez
+  advisees:
+  - B. Johnson
+  venue: Electric Power Systems Research, (193):107044 (2021)
+  year: 2021
+  doi: https://doi.org/10.1016/j.epsr.2021.107044
+- type: journal
+  title: Transmission hosting capacity of distributed energy resources
+  authors:
+  - P. Cicilio
+  - E. Cotilla-Sanchez
+  - B. Vaagensmith
+  - J. Gentle
+  advisees:
+  - P. Cicilio
+  venue: IEEE Transactions on Sustainable Energy, 12(2):794-801 (2021)
+  year: 2021
+  doi: https://doi.org/10.1109/tste.2020.3020295
+- type: journal
+  title: A Risk-Based Approach to Assess the Operational Resilience of Transmission Grids
+  authors:
+  - M. Papic
+  - S. Ekisheva
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: Applied Sciences. 10(14):4761, 2020
+  year: 2020
+  doi: https://doi.org/10.3390/app10144761
+- type: journal
+  title: Electrical Grid Resilience Framework with Uncertainty
+  authors:
+  - P. Cicilio
+  - L. Swartz
+  - B. Vaagensmith
+  - C. Rieger
+  - J. Gentle
+  - T. McJunkin
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: Electric Power Systems Research, 189:106801 (2020). (Presented at the Power Systems Computation Conference, PSCC 2020.)
+  year: 2020
+  doi: https://doi.org/10.1016/j.epsr.2020.106801
+- type: journal
+  title: A Game-theoretic Approach to Data Interaction
+  authors:
+  - B. McCamish
+  - V. Ghadakchi
+  - A. Termehchy
+  - B. Touri
+  - E. Cotilla-Sanchez
+  - L. Huang
+  - S. Changpinyo
+  advisees:
+  - B. McCamish
+  venue: ACM Transactions on Database Systems, 45(1):1-44 (2020)
+  year: 2020
+  doi: https://doi.org/10.1145/3351450
+- type: journal
+  title: A Monte Carlo methodology for earthquake impact analysis on the electrical grid
+  authors:
+  - B. Johnson
+  - V. Chalishazar
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  advisees:
+  - B. Johnson
+  venue: Electric Power Systems Research, (184):106332 (2020)
+  year: 2020
+  doi: https://doi.org/10.1016/j.epsr.2020.106332
+- type: journal
+  title: Estimating the Impact of Ocean Wave Energy on Power System Reliability with a Well-Being Approach
+  authors:
+  - B. Johnson
+  - E. Cotilla-Sanchez
+  advisees:
+  - B. Johnson
+  venue: IET Renewable Power Generation, (14)4:608-615 (2019)
+  year: 2019
+  doi: https://doi.org/10.1049/iet-rpg.2019.0567
+- type: journal
+  title: 'uGrid: Reliable Minigrid Design and Planning Toolset for Rural Electrification'
+  authors:
+  - P. Cicilio
+  - M. Orosz
+  - A. Mueller
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: IEEE Access, (7):163988-163999 (2019)
+  year: 2019
+  doi: https://doi.org/10.1109/access.2019.2952896
+- type: journal
+  title: Evaluating Measurement-Based Dynamic Load Modeling Techniques and Metrics
+  authors:
+  - P. Cicilio
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: IEEE Transactions on Power Systems, 35(3):1805-1811, 2020
+  year: 2020
+  doi: https://doi.org/10.1109/pesgm41954.2020.9282170
+- type: journal
+  title: 'Understanding the Impact of Decision Making on Robustness During Complex System Design: More Resilient Power Systems'
+  authors:
+  - J. Piacenza
+  - K. Faller
+  - M. Bozorgirad
+  - E. Cotilla-Sanchez
+  - C. Hoyle
+  - I. Tumer
+  advisees: []
+  venue: 'ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, 6(2):021001 (2019)'
+  year: 2019
+  doi: https://doi.org/10.1115/1.4044471
+- type: journal
+  title: Dynamic frequency and amplitude estimation for three-phase unbalanced power Systems using the unscented Kalman filter
+  authors:
+  - C. Wu
+  - M. Magaña
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: IEEE Transactions on Instrumentation and Measurement, 68(9):3387-3395, 2019
+  year: 2019
+  doi: https://doi.org/10.1109/tim.2018.2875605
+- type: journal
+  title: A generative graph model for electrical infrastructure networks
+  authors:
+  - S. Aksoy
+  - E. Purvine
+  - E. Cotilla-Sanchez
+  - M. Halappanavar
+  advisees: []
+  venue: Journal of Complex Networks, 7(1):128-162 (2019)
+  year: 2019
+  doi: https://doi.org/10.1093/comnet/cny016
+- type: journal
+  title: Adaptive master–slave unscented Kalman filter for grid voltage frequency estimation
+  authors:
+  - J. Muñoz
+  - M. Magaña
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: IET Signal Processing, 12(4):496-505 (2018)
+  year: 2018
+  doi: https://doi.org/10.1049/iet-spr.2016.0199
+- type: journal
+  title: A Learning Scheme for Microgrid Reconnection
+  authors:
+  - C. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - C. Lassetter
+  venue: IEEE Transactions on Power Systems, 33(1):691-700, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/tpwrs.2017.2709741
+- type: journal
+  title: Comparative study of clustering techniques for real‐time dynamic model reduction
+  authors:
+  - E. Purvine
+  - E. Cotilla-Sanchez
+  - M. Halappanavar
+  - Z. Huang
+  - G. Lin
+  - S. Lu
+  - S. Wang
+  advisees: []
+  venue: 'Statistical Analysis and Data Mining: The ASA Data Science Journal, 10(5):263-276 (2017)'
+  year: 2017
+  doi: https://doi.org/10.1002/sam.11352
+- type: journal
+  title: A Rapid PMU-based Load Composition and PMU Estimation Method
+  authors:
+  - B. McCamish
+  - J. Kulkarni
+  - Z. Ke
+  - S. Harpool
+  - C. Huo
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  - J. Zhang
+  - A. von Jouanne
+  - A. Yokochi
+  advisees:
+  - B. McCamish
+  - C. Huo
+  venue: Electric Power Systems Research, 143:44-52 (2017)
+  year: 2017
+  doi: https://doi.org/10.1016/j.epsr.2016.10.028
+- type: journal
+  title: A Backend Framework for the Efficient Management of Power System Measurements
+  authors:
+  - B. McCamish
+  - R. Meier
+  - J. Landford
+  - R. Bass
+  - D. Chiu
+  - E. Cotilla-Sanchez
+  advisees:
+  - B. McCamish
+  - R. Meier
+  venue: Electric Power Systems Research, 140:797-805 (2016)
+  year: 2016
+  doi: https://doi.org/10.1016/j.epsr.2016.05.003
+- type: journal
+  title: Benchmarking and Validation of Cascading Failure Analysis Tools
+  authors:
+  - J. Bialek
+  - E. Ciapessoni
+  - D. Cirio
+  - E. Cotilla-Sanchez
+  - C. Dent
+  - I. Dobson
+  - P. Henneaux
+  - P. Hines
+  - J. Jardim
+  - S. Miller
+  - M. Panteli
+  - M. Papic
+  - A. Pitto
+  - J. Quiros-Tortos
+  - D. Wu
+  advisees: []
+  venue: IEEE Transactions on Power Systems, 31(6):4887-4900 (2016)
+  year: 2016
+  doi: https://doi.org/10.1109/tpwrs.2016.2518660
+- type: journal
+  title: An optimization framework for decision making in large, collaborative energy supply systems
+  authors:
+  - B. DuPont
+  - R. Azam
+  - S. Proper
+  - E. Cotilla-Sanchez
+  - C. Hoyle
+  - J. Piacenza
+  - D. Oryschchyn
+  - S. Zitney
+  - S. Bossart
+  advisees: []
+  venue: ASME Journal of Energy Resources Technology, 138(5):051601 (2016)
+  year: 2016
+  doi: https://doi.org/10.1115/1.4032521
+- type: journal
+  title: Dynamic Modeling of Cascading Failure in Power Systems
+  authors:
+  - J. Song
+  - E. Cotilla-Sanchez
+  - G. Ghanavati
+  - P. Hines
+  advisees:
+  - J. Song
+  venue: IEEE Transactions on Power Systems, 31(3):2085-2095 (2016)
+  year: 2016
+  doi: https://doi.org/10.1109/tpwrs.2015.2439237
+- type: journal
+  title: Assessing the Impact of the Grid-Connected Pacific Marine Energy Center Wave Farm
+  authors:
+  - S. Armstrong
+  - E. Cotilla-Sanchez
+  - T. Kovaltchouk
+  advisees: []
+  venue: IEEE Journal of Emerging and Selected Topics in Power Electronics, 3(4):1011-1020 (2015)
+  year: 2015
+  doi: https://doi.org/10.1109/jestpe.2015.2429577
+- type: journal
+  title: Understanding Early Indicators of Critical Transitions in Power Systems from Autocorrelation Functions
+  authors:
+  - G. Ghanavati
+  - P. Hines
+  - T. Lakoba
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: IEEE Transactions on Circuits and Systems I, 61(9):2747-2760 (2014)
+  year: 2014
+- type: journal
+  title: Multi-attribute Partitioning of Power Networks Based on Electrical Distance
+  authors:
+  - E. Cotilla-Sanchez
+  - P. Hines
+  - C. Barrows
+  - S. Blumsack
+  - M. Patel
+  advisees: []
+  venue: IEEE Transactions on Power Systems, 28(4):4978-4987 (2013)
+  year: 2013
+  doi: https://doi.org/10.1109/tpwrs.2013.2263886
+- type: journal
+  title: Predicting Critical Transitions from Time Series Synchrophasor Data
+  authors:
+  - E. Cotilla-Sanchez
+  - P. Hines
+  - C. Danforth
+  advisees: []
+  venue: IEEE Transactions on Smart Grid, 3(4):1832-1840 (2012)
+  year: 2012
+  doi: https://doi.org/10.1109/tsg.2012.2213848
+- type: journal
+  title: Comparing the Topological and Electrical Structure of the North American Electric Power Infrastructure
+  authors:
+  - E. Cotilla-Sanchez
+  - P. Hines
+  - C. Barrows
+  - S. Blumsack
+  advisees: []
+  venue: IEEE Systems Journal, 6(4):616-626 (2012)
+  year: 2012
+  doi: https://doi.org/10.1109/jsyst.2012.2183033
+- type: journal
+  title: Do topological models provide good information about electricity infrastructure vulnerability
+  authors:
+  - P. Hines
+  - E. Cotilla-Sanchez
+  - S. Blumsack
+  advisees: []
+  venue: Chaos, 20(3):033122 (2010)
+  year: 2010
+  doi: https://doi.org/10.1063/1.3489887
+- type: journal
+  title: Cascading failures in power grids
+  authors:
+  - P. Hines
+  - K. Balasubramaniam
+  - E. Cotilla Sanchez
+  advisees: []
+  venue: IEEE Potentials, 28(5):24-30 (2009)
+  year: 2009
+  doi: https://doi.org/10.1109/mpot.2009.933498
+- type: conference
+  title: Increasing Resilience of Smart Home Agents
+  authors:
+  - C. Terrazas
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Terrazas
+  venue: in Proc. of the 2026 International Conference on Smart Energy Systems and Technologies (SEST), Ciudad Real, Spain, 2026 (accepted, to appear)
+  year: 2026
+  status: to appear
+- type: conference
+  title: Hybrid Learning for Grid-Edge Load Forecasting and Anomaly Detection
+  authors:
+  - M. Fakhry
+  - A. Oseni
+  - N. Fronda
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  - X. Zhu
+  advisees:
+  - A. Oseni
+  venue: in Proc. of the 2026 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 2026
+  year: 2026
+  doi: https://doi.org/10.1109/TD48022.2026.11562840
+- type: conference
+  title: A LVRT Control with Current Limiting and Power Oscillation Mitigation for Wave-to-Grid Systems
+  authors:
+  - S. Podder
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees: []
+  venue: in Proc. of the IEEE Green Technologies Conference (GreenTech), Boulder, CO, 2026
+  year: 2026
+  doi: https://doi.org/10.1109/greentech68285.2026.11471626
+- type: conference
+  title: Hybrid Hydropower Power Plant Contributions to Grid Resilience During Controlled Islanding Events
+  authors:
+  - A. Oseni
+  - T. Mabote
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Oseni
+  - T. Mabote
+  venue: in Proc. of the IEEE Green Technologies Conference (GreenTech), Boulder, CO, 2026
+  year: 2026
+  doi: https://doi.org/10.1109/greentech68285.2026.11471613
+- type: conference
+  title: A Genetic Algorithm Based Power Dispatch for a Hybrid Hydro and Energy Storage System
+  authors:
+  - T. Mabote
+  - A. Gibson
+  - A. Oseni
+  - P. Li
+  - Y. Cao
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  advisees:
+  - T. Mabote
+  - A. Oseni
+  venue: in Proc. of the IEEE Green Technologies Conference (GreenTech), Boulder, CO, 2026
+  year: 2026
+  doi: https://doi.org/10.1109/greentech68285.2026.11471575
+- type: conference
+  title: Practical Implementation of GPU-based Computing at the Grid Edge for Resilience Scenarios
+  authors:
+  - R. de Souza
+  - E. Cotilla-Sanchez
+  advisees:
+  - R. de Souza
+  venue: in Proc. of the IEEE International Conference on Energy Technologies for Future Grids (ETFG), 2025
+  year: 2025
+  doi: https://doi.org/10.1109/etfg61999.2025.11402350
+- type: conference
+  title: Adaptive Energy Management Strategy for Power Fluctuation Mitigation in a Wave-to-Grid System
+  authors:
+  - S. Podder
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees: []
+  venue: in Proc. of the 57th North American Power Symposium (NAPS), Hartford, CT, 2025
+  year: 2025
+  doi: https://doi.org/10.1109/naps66256.2025.11272400
+- type: conference
+  title: A Reconfigurable Co-Simulation Framework for Dynamical Analysis of Grid-Connected Wave Energy Converters
+  authors:
+  - A. Barajas-Ritchie
+  - E. Cotilla-Sanchez
+  - S. Bhattacharya
+  - D. Baldwin
+  advisees:
+  - A. Barajas-Ritchie
+  venue: in Proc. of the 57th North American Power Symposium (NAPS), Hartford, CT, 2025
+  year: 2025
+  doi: https://doi.org/10.1109/naps66256.2025.11272331
+- type: conference
+  title: Hybrid Hydropower and Energy Storage Experimental System
+  authors:
+  - A. Gibson
+  - P. Li
+  - T. Mabote
+  - A. Oseni
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  - T. Brekken
+  advisees:
+  - T. Mabote
+  - A. Oseni
+  venue: in Proc. of the 2025 IEEE Energy Conversion Congress & Exposition (ECCE), Philadelphia, PA, 2025
+  year: 2025
+  doi: https://doi.org/10.1109/ecce58356.2025.11260037
+- type: conference
+  title: Lightweight Evaluation of Controlled Islanding Stability
+  authors:
+  - A. Oseni
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Oseni
+  venue: in Proc. of the IEEE PES General Meeting, Austin, TX, USA, July 2025
+  year: 2025
+  doi: https://doi.org/10.1109/pesgm52009.2025.11225558
+- type: conference
+  title: Dynamic Modeling and Real-Time Simulation of Wave-to-Grid System
+  authors:
+  - S. Podder
+  - D. Jackson
+  - A. Barajas-Ritchie
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees:
+  - A. Barajas-Ritchie
+  venue: in Proc. of the 50th Annual Conference of the IEEE Industrial Electronics Society, Chicago, IL, 2024
+  year: 2024
+  doi: https://doi.org/10.1109/iecon55916.2024.10905205
+- type: conference
+  title: Voltage Regulation of Microgrid Inverters in Grid-Following and Grid-Forming Mode
+  authors:
+  - C. Hicks
+  - K. Whitener
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Hicks
+  venue: in Proc. of the 2024 International Conference on Smart Energy Systems and Technologies (SEST), Torino, Italy, 2024
+  year: 2024
+  doi: https://doi.org/10.1109/sest61601.2024.10694016
+- type: conference
+  title: Developing Optimization-Based Inverter Models for Short Circuit Studies
+  authors:
+  - T. Mabote
+  - J. Tabarez
+  - A. Barnes
+  - A. Mate
+  - R. Bent
+  - E. Cotilla-Sanchez
+  advisees:
+  - T. Mabote
+  - A. Mate
+  venue: in Proc. of the 2023 IEEE International Conference on Environment and Electrical Engineering and 2023 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe), Madrid, Spain, 2023
+  year: 2023
+  doi: https://doi.org/10.1109/eeeic/icpseurope57605.2023.10194640
+- type: conference
+  title: Hybrid Simulation of a Wave Energy Converter Power Take Off for Flicker and Power Quality
+  authors:
+  - M. Boller
+  - F. Carapellese
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - M. Boller
+  venue: in Proc. of the 2023 IEEE Energy Conversion Congress & Exposition (ECCE), Nashville, Tennessee, 2023
+  year: 2023
+  doi: https://doi.org/10.1109/ecce53617.2023.10362304
+- type: conference
+  title: Approximate Methods for Modeling Inverter Short-Circuit Contributions within Optimal Operation Problems
+  authors:
+  - T. Mabote
+  - J. Tabarez
+  - A. Barnes
+  - A. Mate
+  - R. Bent
+  - E. Cotilla-Sanchez
+  advisees:
+  - T. Mabote
+  - A. Mate
+  venue: in Proc. of the 23rd EEEIC International Conference on Environment and Electrical Engineering & 7th I&CPS Industrial and Commercial Power Systems Europe, Madrid, Spain, 2023
+  year: 2023
+- type: conference
+  title: Extending Bus Branch Power System Models by use of Graphs for Resilience Studies
+  authors:
+  - R. Weinmann
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - R. Weinmann
+  venue: in Proc. of the IEEE PES General Meeting, Orlando, FL, USA, 2023
+  year: 2023
+  doi: https://doi.org/10.1109/pesgm52003.2023.10252783
+- type: conference
+  title: Impacts of Remedial Action Schemes on Power System Resilience after Large-Scale Earthquakes
+  authors:
+  - R. Weinmann
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - R. Weinmann
+  venue: in Proc. of the 2023 International Conference on Smart Energy Systems and Technologies (SEST), Mugla, Turkey, 2023
+  year: 2023
+  doi: https://doi.org/10.1109/sest57387.2023.10257324
+- type: conference
+  title: Open-Source Steady-State Models for Integration of Wave Energy Converter into Microgrids
+  authors:
+  - A. Barajas-Ritchie
+  - D. Jackson
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees:
+  - A. Barajas-Ritchie
+  venue: in Proc. of the International Conference on Future Energy Solutions, Vaasa, Finland, 2023
+  year: 2023
+  doi: https://doi.org/10.1109/fes57669.2023.10182796
+- type: conference
+  title: Enhancing Resilience During Islanding Events Through Price-Responsive Loads
+  authors:
+  - T. Mabote
+  - L. Badesa
+  - E. Cotilla-Sanchez
+  advisees:
+  - T. Mabote
+  venue: in Proc. of the 2022 International Conference on Smart Energy Systems and Technologies (SEST), Eindhoven, Netherlands, 2022
+  year: 2022
+  doi: https://doi.org/10.1109/sest53650.2022.9898476
+- type: conference
+  title: Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl
+  authors:
+  - A. Mate
+  - A. Barnes
+  - S. Morley
+  - J. Friz-Trillo
+  - E. Cotilla-Sanchez
+  - S. Blake
+  advisees:
+  - A. Mate
+  venue: in Proc. of the 53rd North American Power Symposium (NAPS), 2021
+  year: 2021
+  doi: https://doi.org/10.1109/naps52732.2021.9654450
+- type: conference
+  title: Using Critical Slowing Down Features to Enhance Performance of Artificial Neural Networks for Time-Domain Power System Data
+  authors:
+  - A. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - A. Lassetter
+  venue: in Proc. of the 9th International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2021
+  year: 2021
+  doi: https://doi.org/10.1109/sege52446.2021.9535027
+- type: conference
+  title: Exponential Modeling of Equipment Degradation in the Grid for More Reliable Contingency Analysis
+  authors:
+  - A. Lassetter
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Lassetter
+  venue: in Proc. of the Smart Energy Systems and Technology Conference (SEST), Vaasa, Finland, 2021
+  year: 2021
+  doi: https://doi.org/10.1109/sest50973.2021.9543166
+- type: conference
+  title: Mitigation of GPS Spoofing Attacks on PMUs via Multi-Period Sparse Error Correction
+  authors:
+  - S. De Silva
+  - J. Kim
+  - E. Cotilla-Sanchez
+  - T. Hagan
+  advisees:
+  - T. Hagan
+  venue: in Proc. of the IEEE PES General Meeting, Washington, DC, USA, July 2021
+  year: 2021
+  doi: https://doi.org/10.1109/pesgm46819.2021.9638136
+- type: conference
+  title: Impacts of Earthquakes on Electrical Grid Resiliency
+  authors:
+  - A. Mate
+  - T. Hagan
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  - A. von Jouanne
+  advisees:
+  - A. Mate
+  - T. Hagan
+  venue: in Proc. of the 57th IEEE/IAS Industrial and Commercial Power Systems Technical Conference (I&CPS), April 2021
+  year: 2021
+  doi: https://doi.org/10.1109/icps51807.2021.9416632
+- type: conference
+  title: Data Driven Sparse Error Correction for PMU Measurements under GPS Spoofing Attacks
+  authors:
+  - S. De Silva
+  - J. Kim
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021
+  year: 2021
+  doi: https://doi.org/10.1109/isgt49243.2021.9372277
+- type: conference
+  title: Spatio-Temporal Frequency Domain Analysis of PMU Data for Unsupervised Event Detection
+  authors:
+  - D. Senaratne
+  - J. Kim
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: in Proc. of the IEEE Innovative Smart Grid Technologies Conference (ISGT) North America, 2021
+  year: 2021
+  doi: https://doi.org/10.1109/isgt49243.2021.9372192
+- type: conference
+  title: Transient Voltage Stability Effects on Hosting Capacity of Behind-the-Meter Devices
+  authors:
+  - P. Cicilio
+  - J. Gentle
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: in Proc. of the IEEE PES General Meeting, Montreal, QC, Canada, 2020
+  year: 2020
+  doi: https://doi.org/10.1109/pesgm41954.2020.9281652
+- type: conference
+  title: Charging Analysis of Ground Support Vehicles in an Electrified Airport
+  authors:
+  - K. Gulan
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees:
+  - K. Gulan
+  venue: in Proc. of the IEEE Transportation Electrification Conference & Expo (ITEC), Novi, Michigan, 2019
+  year: 2019
+  doi: https://doi.org/10.1109/itec.2019.8790550
+- type: conference
+  title: Rapid Method for Generation Prioritization during System Restoration with Renewable Resources
+  authors:
+  - A. Mate
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Mate
+  venue: in Proc. of the 55th IEEE/IAS Industrial and Commercial Power Systems Technical Conference (I&CPS), Calgary, Alberta, Canada, 2019
+  year: 2019
+  doi: https://doi.org/10.1109/icps.2019.8733358
+- type: conference
+  title: Episodic detection of spoofed data in synchrophasor measurement streams
+  authors:
+  - X. Liu
+  - S. Wallace
+  - X. Zhao
+  - E. Cotilla-Sanchez
+  - R. Bass
+  advisees: []
+  venue: in Proc. of the Tenth International Green and Sustainable Computing Conference (IGSC), Alexandria, VA, 2019
+  year: 2019
+  doi: https://doi.org/10.1109/igsc48788.2019.8957211
+- type: conference
+  title: Generator Event Detection from Synchrophasor Data Using a Two-Step Time-Series Machine Learning Algorithm
+  authors:
+  - J. Berrios
+  - S. Wallace
+  - X. Zhao
+  - E. Cotilla-Sanchez
+  - B. Bass
+  advisees: []
+  venue: in Proc. of the 9th International Green and Sustainable Computing Conference (IGSC), Pittsburgh, PA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/igcc.2018.8752121
+- type: conference
+  title: Sparse Error Correction for PMU Data under GPS Spoofing Attacks
+  authors:
+  - S. De Silva
+  - T. Hagan
+  - J. Kim
+  - E. Cotilla-Sanchez
+  advisees:
+  - T. Hagan
+  venue: in Proc. of the IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2018
+  year: 2018
+  doi: https://doi.org/10.1109/globalsip.2018.8645973
+- type: conference
+  title: Augmenting the Traditional Bus-Branch Model for Seismic Resilience Analysis
+  authors:
+  - V. Chalishazar
+  - B. Johnson
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - B. Johnson
+  venue: in Proc. of the IEEE Energy Conversion Congress and Exposition (ECCE), Portland, OR, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/ecce.2018.8557820
+- type: conference
+  title: Dynamic Composite Load Model Priority Placement Based on Electrical Centrality
+  authors:
+  - P. Cicilio
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/pesgm.2018.8585901
+- type: conference
+  title: Power System Spoof Detection with a Hybrid Hardware/Software Benchmarking Framework
+  authors:
+  - K. Dieter
+  - B. McCamish
+  - E. Cotilla-Sanchez
+  - R. Bass
+  - S. Wallace
+  - X. Zhao
+  advisees:
+  - K. Dieter
+  - B. McCamish
+  venue: in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/pesgm.2018.8585743
+- type: conference
+  title: Event Detection Using Correlation within Arrays of Streaming PMU Data
+  authors:
+  - R. Meier
+  - B. McCamish
+  - E. Cotilla-Sanchez
+  - J. Landford
+  - R. Bass
+  - D. Chiu
+  advisees:
+  - R. Meier
+  - B. McCamish
+  venue: in Proc. of the IEEE Power and Energy Society General Meeting, Portland, OR, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/pesgm.2018.8585774
+- type: conference
+  title: Benchmarking Quasi-Steady State Cascading Outage Analysis Methodologies
+  authors:
+  - P. Henneaux
+  - E. Ciapessoni
+  - D. Cirio
+  - E. Cotilla-Sanchez
+  - R. Diao
+  - I. Dobson
+  - A. Gaikwad
+  - S. Miller
+  - M. Papic
+  - A. Pitto
+  - J. Qi
+  - N. Samaan
+  - G. Sansavini
+  - S. Uppalapati
+  - R. Yao
+  advisees: []
+  venue: in Proc. of the IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), Boise, ID, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.1109/pmaps.2018.8440212
+- type: conference
+  title: A Power-Balanced Clustering Algorithm to Improve Electrical Infrastructure Resiliency
+  authors:
+  - C. Huo
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Huo
+  venue: in Proc. of the 20th Power Systems Computation Conference (PSCC), Dublin, Ireland, 2018
+  year: 2018
+  doi: https://doi.org/10.23919/pscc.2018.8442565
+- type: conference
+  title: Learning Schemes for Power System Protection
+  authors:
+  - C. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - C. Lassetter
+  venue: in Proc. of the 51st Hawaii International Conference on System Sciences (HICSS), Waikoloa Village, HI, USA, 2018
+  year: 2018
+  doi: https://doi.org/10.24251/hicss.2018.334
+- type: conference
+  title: Dynamic Composite Load Signature Detection and Classification using Supervised Learning over Disturbance Data
+  authors:
+  - K. Tray
+  - P. Cicilio
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  advisees:
+  - P. Cicilio
+  venue: in Proc. of the IEEE Energy Conversion Congress and Exposition Technical Program Committee, Cincinnati, OH, 2017
+  year: 2017
+  doi: https://doi.org/10.1109/ecce.2017.8095977
+- type: conference
+  title: Mining PMU Data Streams to Improve Electric Power System Resilience
+  authors:
+  - J. Jiang
+  - X. Zhao
+  - S. Wallace
+  - E. Cotilla-Sanchez
+  - R. Bass
+  advisees: []
+  venue: in Proc. of the 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), Austin, TX, USA, 2017
+  year: 2017
+  doi: https://doi.org/10.1145/3148055.3148082
+- type: conference
+  title: Improved Reliability and Resiliency of Nome, Alaska's Microgrid Utilizing Composite Load Modeling and Energy Storage
+  authors:
+  - P. Cicilio
+  - E. Cotilla-Sanchez
+  - M. Mueller-Stoffels
+  advisees:
+  - P. Cicilio
+  venue: in Proc. of the IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 2018
+  year: 2018
+- type: conference
+  title: Modeling Power System Buses Using Performance Based Earthquake Engineering Methods
+  authors:
+  - V. Chalishazar
+  - C. Huo
+  - I. Fox
+  - T. Hagan
+  - E. Cotilla-Sanchez
+  - A. von Jouanne
+  - J. Zhang
+  - T. Brekken
+  - B. Bass
+  advisees:
+  - C. Huo
+  - T. Hagan
+  venue: in Proc. of the IEEE Power and Energy Society General Meeting, Chicago, IL, 2017
+  year: 2017
+  doi: https://doi.org/10.1109/pesgm.2017.8274307
+- type: conference
+  title: A Signaling Game Approach to Databases Querying
+  authors:
+  - B. McCamish
+  - A. Termehchy
+  - B. Touri
+  - E. Cotilla-Sanchez
+  advisees:
+  - B. McCamish
+  venue: in Proc. of the Alberto Mendelzon International Workshop on Foundations of Data Management (AMW), 2016
+  year: 2016
+- type: conference
+  title: Exploring security metrics for electric grid infrastructures leveraging attack graphs
+  authors:
+  - P. Patapanchala
+  - C. Huo
+  - R. Bobba
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Huo
+  venue: in Proc. of the IEEE Conference on Technologies for Sustainability (SusTech), Phoenix, AZ, 2016
+  year: 2016
+  doi: https://doi.org/10.1109/sustech.2016.7897148
+- type: conference
+  title: Fast sequence component analysis for attack detection in smart grid
+  authors:
+  - J. Landford
+  - R. Meier
+  - R. Barella
+  - S. Wallace
+  - X. Zhao
+  - E. Cotilla-Sanchez
+  - B. Bass
+  advisees:
+  - R. Meier
+  venue: in Proc. of the 5th International Conference on Smart Cities and Green ICT Systems (SmartGreens), Rome, Italy, 2016
+  year: 2016
+  doi: https://doi.org/10.5220/0005860302250232
+- type: conference
+  title: Load oscillating smart meter attack
+  authors:
+  - C. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - C. Lassetter
+  venue: in Proc. of the IEEE Global Conference on Signal and Information Processing (GlobalSIP), pp. 821-825, Washington, D.C., USA, 2016
+  year: 2016
+  doi: https://doi.org/10.1109/globalsip.2016.7905957
+- type: conference
+  title: Dynamic Probabilistic Risk Assessment of Cascading Outages
+  authors:
+  - P. Henneaux
+  - J. Song
+  - E. Cotilla-Sanchez
+  advisees:
+  - J. Song
+  venue: in Proc. of the IEEE PES General Meeting, Denver, CO, 2015
+  year: 2015
+  doi: https://doi.org/10.1109/pesgm.2015.7286024
+- type: conference
+  title: Rapid Grid State Estimation Using Singular Value Decomposition Similarity Matching
+  authors:
+  - J. Kulkarni
+  - B. McCamish
+  - Z. Ke
+  - S. Harpool
+  - A. von Jouanne
+  - E. Cotilla-Sanchez
+  - J. Zhang
+  - A. Yokochi
+  advisees:
+  - B. McCamish
+  venue: in Proc. of the IEEE Conference on Technologies for Sustainability (SusTech), Ogden, UT, 2015
+  year: 2015
+  doi: https://doi.org/10.1109/sustech.2015.7314345
+- type: conference
+  title: Decision Making for the Collaborative Energy Supply System of Oregon and Washington
+  authors:
+  - B. DuPont
+  - R. Azam
+  - S. Proper
+  - E. Cotilla-Sanchez
+  - C. Hoyle
+  - J. Piacenza
+  - D. Oryshchyn
+  - S. Zitney
+  advisees: []
+  venue: in Proc. of the ASME Power Conference, San Diego, CA, 2015
+  year: 2015
+  doi: https://doi.org/10.1115/power2015-49509
+- type: conference
+  title: A Sensitivity Study of PMU-Based Fault Detection on Smart Grid
+  authors:
+  - R. Barella
+  - D. Nguyen
+  - R. Winter
+  - K. Lu
+  - S. Wallace
+  - X. Zhao
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: in Proc. of the 4th International Conference on Smart Cities and Green ICT Systems (SmartGreens), Lisbon, Portugal, 2015
+  year: 2015
+  doi: https://doi.org/10.5220/0005453801850192
+- type: conference
+  title: NNMREC PMEC-SETS grid emulator array-to-grid transmission system and wave energy resource characterization
+  authors:
+  - A. von Jouanne
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  - E. Amon
+  - A. Yokochi
+  advisees: []
+  venue: in Proc. of the International Marine Energy Conference and Marine Energy Technology Symposium (METS), Washington, D.C., USA, 2015
+  year: 2015
+- type: conference
+  title: Advancing Wave Energy Converter Array-to-Grid Transmission Systems
+  authors:
+  - A. von Jouanne
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  - E. Amon
+  - A. Yokochi
+  advisees: []
+  venue: in Proc. of the IEEE International Conference on Industrial Technology (ICIT), Seville, Spain, 2015
+  year: 2015
+  doi: https://doi.org/10.1109/icit.2015.7125462
+- type: conference
+  title: Robust Optimization of Complex Cyber-Physical Systems
+  authors:
+  - C. Hoyle
+  - J. Piacenza
+  - B. DuPont
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: in Proc. of the International Annual Conference of the American Society for Engineering Management (ASEM), 2014
+  year: 2014
+- type: conference
+  title: Decision-Making for Large-Scale Collaborative Power Systems
+  authors:
+  - B. DuPont
+  - J. Piacenza
+  - R. Azam
+  - J. Wardman
+  - C. Hoyle
+  - E. Cotilla-Sanchez
+  - et al.
+  advisees:
+  - J. Wardman
+  venue: in Proc. of the International Annual Conference of the American Society for Engineering Management (ASEM), 2014
+  year: 2014
+- type: conference
+  title: 'Social Acceptance: Threats to Effective Smart Grid Deployment and Power Systems Resilience'
+  authors:
+  - C. Eseonu
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: in Proc. of the IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2014
+  year: 2014
+  doi: https://doi.org/10.1109/sustech.2014.7046222
+- type: conference
+  title: A Policy Switching Approach to Consolidating Load Shedding and Islanding Protection Schemes
+  authors:
+  - R. Meier
+  - E. Cotilla-Sanchez
+  - A. Fern
+  advisees:
+  - R. Meier
+  venue: 18th Power Systems Computation Conference, PSCC 2014, Wroclaw, Poland
+  year: 2014
+- type: conference
+  title: Enhancing Test Power Systems for Dynamic Cascading Outage Simulations
+  authors:
+  - P. Henneaux
+  - J. Song
+  - E. Cotilla-Sanchez
+  advisees:
+  - J. Song
+  venue: in IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2014
+  year: 2014
+  doi: https://doi.org/10.1109/sustech.2014.7046228
+- type: conference
+  title: Integrating Synchrophasor Technology with the Oregon State University Campus Smart Grid Project
+  authors:
+  - C. Huo
+  - J. Song
+  - K. Wagner
+  - G. Harold
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Huo
+  - J. Song
+  venue: in IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2014
+  year: 2014
+  doi: https://doi.org/10.1109/sustech.2014.7046231
+- type: conference
+  title: Managing PMU data sets with bitmap indexes
+  authors:
+  - B. McCamish
+  - M. Histand
+  - R. Meier
+  - J. Landford
+  - E. Cotilla-Sanchez
+  - D. Chiu
+  - R. Bass
+  advisees:
+  - B. McCamish
+  - R. Meier
+  venue: in IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2014
+  year: 2014
+  doi: https://doi.org/10.1109/sustech.2014.7046247
+- type: conference
+  title: Power system data management and analysis using synchrophasor data
+  authors:
+  - R. Meier
+  - M. Histand
+  - J. Landford
+  - B. McCamish
+  - D. Chiu
+  - R. Bass
+  - E. Cotilla-Sanchez
+  advisees:
+  - R. Meier
+  - B. McCamish
+  venue: in IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2014
+  year: 2014
+  doi: https://doi.org/10.1109/sustech.2014.7046248
+- type: conference
+  title: Towards Effective Clustering Techniques for the Analysis of Electric Power Grids
+  authors:
+  - E. Hogan
+  - E. Cotilla-Sanchez
+  - M. Halappanavar
+  - S. Wang
+  - P. Mackey
+  - P. Hines
+  - Z. Huang
+  advisees: []
+  venue: 3rd International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Denver, 2013
+  year: 2013
+  doi: https://doi.org/10.1145/2536780.2536785
+- type: conference
+  title: Calculation of the Autocorrelation Function of the Stochastic Single Machine Infinite Bus System
+  authors:
+  - G. Ghanavati
+  - P. Hines
+  - T. Lakoba
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: Proc. of the North American Power Symposium, 2013
+  year: 2013
+  doi: https://doi.org/10.1109/naps.2013.6666899
+- type: conference
+  title: Load modeling methodologies for cascading outage simulation considering power system stability
+  authors:
+  - J. Song
+  - E. Cotilla-Sanchez
+  - T. Brekken
+  advisees:
+  - J. Song
+  venue: Proc. of the IEEE Conference on Technologies for Sustainability (SusTech), Portland, OR, 2013
+  year: 2013
+  doi: https://doi.org/10.1109/sustech.2013.6617301
+- type: conference
+  title: A Survey on Communication Infrastructure for Micro-grids
+  authors:
+  - S. Safdar
+  - B. Hamdaoui
+  - E. Cotilla-Sanchez
+  - M. Guizani
+  advisees:
+  - S. Safdar
+  venue: The 9th International Wireless Communications & Mobile Computing Conference (IWCMC), Cagliari, Italia, 2013
+  year: 2013
+  doi: https://doi.org/10.1109/iwcmc.2013.6583616
+- type: conference
+  title: Optimal Placement of Energy Storage and Demand Response in the Pacific Northwest
+  authors:
+  - J. Song
+  - T. Brekken
+  - E. Cotilla-Sanchez
+  - A. von Jouanne
+  - J. Davison
+  advisees:
+  - J. Song
+  venue: Proc. of the IEEE Power and Energy Society General Meeting, Vancouver, Canada, 2013
+  year: 2013
+  doi: https://doi.org/10.1109/pesmg.2013.6672523
+- type: conference
+  title: ‘Dual Graph' and ‘Random Chemistry' Methods for Cascading Failure Analysis
+  authors:
+  - P. Hines
+  - I. Dobson
+  - E. Cotilla-Sanchez
+  - M. Eppstein
+  advisees: []
+  venue: Proceedings of the 46th Hawaii International Conference on System Sciences, Maui, 2013
+  year: 2013
+  doi: https://doi.org/10.1109/hicss.2013.1
+- type: conference
+  title: Evaluating the Impact of Modeling Assumptions for Cascading Failure Simulation
+  authors:
+  - R. Fitzmaurice
+  - E. Cotilla-Sanchez
+  - P. Hines
+  advisees: []
+  venue: Proc. of the IEEE Power and Energy Society General Meeting, San Diego, 2012
+  year: 2012
+  doi: https://doi.org/10.1109/pesgm.2012.6345378
+- type: conference
+  title: Developing a Dynamic Model of Cascading Failure for High Performance Computing using Trilinos
+  authors:
+  - C. Parmer
+  - E. Cotilla-Sanchez
+  - H. Thornquist
+  - P. Hines
+  advisees: []
+  venue: Proc. of the 1st International Workshop on High Performance Computing, Networking and Analytics for the Power Grid, Seattle, 2011
+  year: 2011
+  doi: https://doi.org/10.1145/2096123.2096131
+- type: conference
+  title: Estimating Dynamic Instability Risk by Measuring Critical Slowing Down
+  authors:
+  - P. Hines
+  - E. Cotilla-Sanchez
+  - B. O'Hara
+  - C. Danforth
+  advisees: []
+  venue: Proc. of the IEEE Power and Energy Society General Meeting, Detroit, 2011
+  year: 2011
+  doi: https://doi.org/10.1109/pes.2011.6039631
+- type: conference
+  title: 'Topological Models and Critical Slowing Down: Two Approaches to Power System Blackout Risk Analysis'
+  authors:
+  - P. Hines
+  - E. Cotilla-Sanchez
+  - S. Blumsack
+  advisees: []
+  venue: Proceedings of the 44th Hawaii International Conference on System Sciences, Kauai, 2011
+  year: 2011
+  doi: https://doi.org/10.1109/hicss.2011.444
+- type: conference
+  title: The Topological and Electrical Structure of Power Grids
+  authors:
+  - P. Hines
+  - S. Blumsack
+  - E. Cotilla-Sanchez
+  - C. Barrows
+  advisees: []
+  venue: Proceedings of the 43rd Hawaii International Conference on System Sciences, Kauai, 2010
+  year: 2010
+  doi: https://doi.org/10.1109/hicss.2010.398
+- type: conference
+  title: Defining Power Network Zones from Measures of Electrical Distance
+  authors:
+  - S. Blumsack
+  - P. Hines
+  - M. Patel
+  - C. Barrows
+  - E. Cotilla-Sanchez
+  advisees: []
+  venue: Proc. of the IEEE Power and Energy Society General Meeting, Calgary, 2009
+  year: 2009
+  doi: https://doi.org/10.1109/pes.2009.5275353
+- type: other
+  title: 'Safe Zone Ally Training Workshop: Level 1'
+  authors:
+  - R. Sandekian
+  - E. Cotilla-Sanchez
+  - S. Farrell
+  advisees: []
+  venue: ASEE Pacific Northwest Section Conference (ASEE PEER, doi:10.18260/1-2--31891)
+  year: 2019
+  doi: https://doi.org/10.18260/1-2--31891
+- type: other
+  title: 'Safe Zone Ally Training Workshop: Level 2'
+  authors:
+  - R. Sandekian
+  - E. Cotilla-Sanchez
+  - S. Farrell
+  advisees: []
+  venue: ASEE Pacific Northwest Section Conference (ASEE PEER, doi:10.18260/1-2--31892)
+  year: 2019
+  doi: https://doi.org/10.18260/1-2--31892
+- type: other
+  title: 'Cascading Failures: Extreme Properties of Large Blackouts in the Electric Grid'
+  authors:
+  - P. Hines
+  - B. O'Hara
+  - E. Cotilla-Sanchez
+  - C. Danforth
+  advisees: []
+  venue: SIAM Mathematics Awareness Month essay, 2011
+  year: 2011
+- type: review
+  title: Coordinated Energy Management Strategy for Power Quality Improvement in Grid-Connected Wave Energy Conversion Systems
+  authors:
+  - S. Podder
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees: []
+  venue: submitted to IEEE Transactions on Power Delivery
+  year: null
+  status: under review
+- type: review
+  title: Efficient Julia Based Dynamic Cascading Failure Simulation for Learning Enabled Emergency Control
+  authors:
+  - K. Wijesooriya
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - K. Wijesooriya
+  venue: submitted to Electric Power Systems Research
+  year: null
+  status: under review
+- type: review
+  title: Enhancing Microgrid Robustness to Topology-Changing Cascading Failures with Adaptive Load Shedding
+  authors:
+  - T. Mabote
+  - E. Cotilla-Sanchez
+  advisees:
+  - T. Mabote
+  venue: submitted to IEEE Transactions on Smart Grid
+  year: null
+  status: under review
+- type: review
+  title: Bridging Smart Meter Data and Power Quality for Electric Vehicles and Medical Systems Applications
+  authors:
+  - L. Rojas
+  - D. Nikolov
+  - E. Cotilla-Sanchez
+  advisees:
+  - L. Rojas
+  - D. Nikolov
+  venue: submitted to the 2027 IEEE PES Grid Edge Technologies Conference and Exposition (GridEdge)
+  year: null
+  status: under review
+- type: software
+  title: WEC-Grid
+  authors:
+  - A. Barajas-Ritchie
+  - D. Jackson
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees:
+  - A. Barajas-Ritchie
+  venue: ''
+  year: 2025
+  kind: Open Source Software
+- type: software
+  title: A dynamic cascading outage simulator in power systems
+  authors:
+  - J. Song
+  - E. Cotilla-Sanchez
+  - G. Ghanavati
+  - P. Hines
+  advisees:
+  - J. Song
+  venue: https://github.com/ecotillasanchez/cosmic
+  year: 2016
+  kind: Open Source Software
+  url: https://github.com/ecotillasanchez/cosmic
+- type: software
+  title: Enhanced IEEE RTS-96 test case w/ synthesized dynamic parameters
+  authors:
+  - C. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - C. Lassetter
+  venue: http://dx.doi.org/10.5281/zenodo.51001
+  year: 2016
+  kind: Dataset
+  doi: https://doi.org/10.5281/zenodo.51001
+- type: software
+  title: Enhanced Poland test case w/synthesized dynamic parameters and protective devices
+  authors:
+  - C. Lassetter
+  - E. Cotilla-Sanchez
+  - J. Kim
+  advisees:
+  - C. Lassetter
+  venue: http://dx.doi.org/10.5281/zenodo.167641
+  year: 2016
+  kind: Dataset
+  doi: https://doi.org/10.5281/zenodo.167641
+- type: software
+  title: Analyzing and Mitigating the Impacts of GMD and EMP Events on the Electrical Grid with PowerModelsGMD.jl
+  authors:
+  - A. Mate
+  - A. Barnes
+  - R. Bent
+  - E. Cotilla-Sanchez
+  advisees:
+  - A. Mate
+  venue: 'citation paper for the Open Source Software: "PowerModelsGMD.jl" developed by Los Alamos National Laboratories'
+  year: 2019
+  kind: Technical Report LA-UR-19-29623
+  doi: https://doi.org/10.48550/arxiv.2101.05042
+- type: software
+  title: Simulink Model of a New Energy EVG-005 5kW Hydropower Turbine
+  authors:
+  - E. Browning
+  - P. Cicilio
+  - J. Kasper
+  - E. Cotilla-Sanchez
+  - D. Jackson
+  advisees:
+  - P. Cicilio
+  venue: Marine and Hydrokinetic Data Repository (MHKDR), doi:10.15473/2008045 (2023)
+  year: 2023
+  kind: Dataset
+  doi: https://doi.org/10.15473/2008045

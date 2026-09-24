@@ -49,7 +49,7 @@ a:hover { color: var(--copper); }
 :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 
 h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.2; }
-h2 { font-size: 1.6rem; margin: 2.2rem 0 0.8rem; }
+h2 { font-size: 1.6rem; margin: 2.2rem 0 0.8rem; clear: both; }
 h3 { font-size: 1.3rem; margin: 2rem 0 0.6rem; clear: both; }
 
 /* Header */

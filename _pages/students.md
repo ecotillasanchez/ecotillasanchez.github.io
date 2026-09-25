@@ -18,7 +18,7 @@ style="padding-right:15px"> I graduated with a bachelor's degree in Electrical e
 
 ### Ph.D., Kalpani Wijesooriya
 <img align="left" src="https://ecotillasanchez.github.io/files/kalpani.jpeg" alt="Kalpani Wijesooriya" width="200" height="200" 
-style="padding-right:15px"> I graduated with a bachelor’s degree in Electrical Engineering from University of Moratuwa, Sri Lanka in 2017. Since then I worked as a Building Management Systems Engineer for two years and then as a junior lecturer in University of Moratuwa. My research focuses are power system protection and application of Machine learning to power systems. During my free time I would love to spend time with my family, travel, and read books. 
+style="padding-right:15px"> Kalpani Wijesooriya is a Ph.D. student in electrical and computer engineering at Oregon State University. Kalpani received a bachelor’s degree in Electrical Engineering from the University of Moratuwa, Sri Lanka, in 2017, then worked for two years as a Building Management Systems Engineer and as a junior lecturer at the University of Moratuwa. Kalpani’s research focuses on power system protection and the application of machine learning to power systems. Outside the lab, Kalpani enjoys spending time with family, traveling, and reading. 
 <br />
 <br />
 
@@ -59,5 +59,6 @@ Christopher Terrazas is a Computer Science Ph.D. student at Oregon State Univers
 * Rich Meier, M.S.
 * Salman Safdar, M.S.
 * Lesly Rojas, B.S.
+* Daniel Nikolov, B.S.
 * Conor Hennessy, Honors B.S.
 * Daniel Duncan, Honors B.S.

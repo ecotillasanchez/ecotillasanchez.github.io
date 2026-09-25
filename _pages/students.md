@@ -27,16 +27,6 @@ Christopher Terrazas is a Computer Science Ph.D. student at Oregon State Univers
 <br />
 <br />
 
-### B.S./M.S., Cameron Hicks
-<img align="left" src="https://ecotillasanchez.github.io/files/Cameron.jpeg" alt="Cameron Hicks" width="200" height="150" style="padding-right:15px"> Cameron Hicks is an undergraduate student in the Accelerated Master's Platform pursuing ECE at Oregon State University. He wants to focus his research on the components of grid electrification and de-centralized microgrid applications. His hobbies include sport Brazilian Jiu-Jitsu and youth athletics coaching in his community.
-<br />
-<br />
-
-### B.S., Reuben De Souza
-<img align="left" src="https://ecotillasanchez.github.io/files/Reuben.jpg" alt="Reuben De Souza" width="200" height="150" style="padding-right:15px"> Reuben De Souza is an undergraduate student in Electrical and Computer Engineering at Oregon State University. His research focuses on exploring advanced functionalities and engineering applications for next-generation smart electric meters. This work aims to enhance grid edge capabilities and improve utility infrastructure. Outside of academics, he enjoys playing soccer, following Formula 1, cooking, and snowboarding. [LinkedIn](https://www.linkedin.com/in/reuben-de-souza-90517823a/)
-<br />
-<br />
-
 ## Graduated Students
 * Alexander Barajas-Ritchie, Ph.D.
 * Michael Boller, Ph.D.
@@ -60,5 +50,7 @@ Christopher Terrazas is a Computer Science Ph.D. student at Oregon State Univers
 * Salman Safdar, M.S.
 * Lesly Rojas, B.S.
 * Daniel Nikolov, B.S.
+* Cameron Hicks, B.S.
+* Reuben De Souza, B.S.
 * Conor Hennessy, Honors B.S.
 * Daniel Duncan, Honors B.S.

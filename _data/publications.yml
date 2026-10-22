@@ -21,6 +21,16 @@
   year: 2015
   doi: https://doi.org/10.1007/978-3-319-27753-0_11
 - type: journal
+  title: Coordinated Energy Management Strategy for Power Quality Improvement in Grid-Connected Wave Energy Conversion Systems
+  authors:
+  - S. Podder
+  - E. Cotilla-Sanchez
+  - Y. Cao
+  advisees: []
+  venue: IEEE Transactions on Power Delivery
+  year: 2026
+  status: in press
+- type: journal
   title: Enhanced Intentional Controlled Islanding in Power Systems Using Constrained Spectral Clustering with Data Amelioration and Dynamic Validation
   authors:
   - F. Rivas-Dávalos
@@ -1366,16 +1376,6 @@
   advisees: []
   venue: SIAM Mathematics Awareness Month essay, 2011
   year: 2011
-- type: review
-  title: Coordinated Energy Management Strategy for Power Quality Improvement in Grid-Connected Wave Energy Conversion Systems
-  authors:
-  - S. Podder
-  - E. Cotilla-Sanchez
-  - Y. Cao
-  advisees: []
-  venue: submitted to IEEE Transactions on Power Delivery
-  year: null
-  status: under review
 - type: review
   title: Efficient Julia Based Dynamic Cascading Failure Simulation for Learning Enabled Emergency Control
   authors:

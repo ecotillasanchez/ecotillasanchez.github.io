@@ -29,7 +29,8 @@
   advisees: []
   venue: IEEE Transactions on Power Delivery
   year: 2026
-  status: in press
+  doi: https://doi.org/10.1109/TPWRD.2026.3747935
+  status: early access
 - type: journal
   title: Enhanced Intentional Controlled Islanding in Power Systems Using Constrained Spectral Clustering with Data Amelioration and Dynamic Validation
   authors:

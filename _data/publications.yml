@@ -1410,6 +1410,16 @@
   venue: submitted to the 2027 IEEE PES Grid Edge Technologies Conference and Exposition (GridEdge)
   year: null
   status: under review
+- type: review
+  title: Analysis and Extensions of O and Q-Z-Source DC Circuit Breakers
+  authors:
+  - D. Han
+  - E. Cotilla-Sanchez
+  - J. Moon
+  advisees: []
+  venue: submitted to the 2027 International Conference on Power Electronics (ICPE 2027-ECCE Asia)
+  year: null
+  status: under review
 - type: software
   title: WEC-Grid
   authors:

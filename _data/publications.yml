@@ -1420,6 +1420,16 @@
   venue: submitted to the 2027 International Conference on Power Electronics (ICPE 2027-ECCE Asia)
   year: null
   status: under review
+- type: review
+  title: Smart Home Agents Make Capable but Unpredictable Grid Operators
+  authors:
+  - C. Terrazas
+  - E. Cotilla-Sanchez
+  advisees:
+  - C. Terrazas
+  venue: submitted to the 2027 IEEE PES General Meeting
+  year: null
+  status: under review
 - type: software
   title: WEC-Grid
   authors:
